@@ -37,14 +37,14 @@
 
 - There're three types of particles that made up matters: **atoms**, **molecules**, **ions**
 
-![1_particles_of_matter](https://raw.githubusercontent.com/jiahuiiiii/picgo/master/img/1_particles_of_matter.png?token=ARU4DGCWQDVP6KX6ID4XCLLEABUBY)
+![1_particles_of_matter](https://i.ibb.co/3fw1yB8/1-particles-of-matter.png)
 
 ## The Change of State of Matter
 
 - All states of matter show an increase in volume (**expansion**) when the **temperature** is **increased** and a decrease in volume (**contraction**) when the **temperature** is **lowered**
 - Large **increases/decreases** in **temperature** and **pressure** can cause a substance to **change** its **physical state**
 
-![1_change_of_states](https://raw.githubusercontent.com/jiahuiiiii/picgo/master/img/1_change_of_states.png?token=ARU4DGFUX43SDCBHCHFTY7TEABUIG)
+![1_change_of_states](https://i.ibb.co/xX9jrbn/1-change-of-states.png)
 
 ### Boiling & Evaporation
 
@@ -66,7 +66,7 @@
 
 ### Heating and Cooling Curves
 
-![1_heating_curve](https://raw.githubusercontent.com/jiahuiiiii/picgo/master/img/1_heating_curve.png?token=ARU4DGDBZFXOK63LNJSBKITEABTWC)
+![1_heating_curve](https://i.ibb.co/SfC27Vr/1-heating-curve.png)
 
 - The **temperature stays constant** during the state changes.
 - During heating, all the energy absorbed at m.p. and b.p. goes into weakening the attraction forces between particles without temperature rise.
@@ -120,7 +120,7 @@
 
 #### Example: Helium
 
-![1_helium_subatomic_particles](https://raw.githubusercontent.com/jiahuiiiii/picgo/master/img/1_helium_subatomic_particles.png?token=ARU4DGBVP3CK5MTWREJSDN3EABULM)
+![1_helium_subatomic_particles](https://i.ibb.co/pZBZq8F/1-helium-subatomic-particles.png)
 
 ### Atomic Number and Mass Number
 
@@ -153,7 +153,7 @@ $$
 
 - Hydrogen, the simplest element, has two naturally occurring isotopes: hydrogen and deuterium. A third Isotope, tritium, can be made artificially.
 
-  ![1_hydrogen_isotopes](https://raw.githubusercontent.com/jiahuiiiii/picgo/master/img/1_hydrogen_isotopes.png?token=ARU4DGHG4YZSJYCWS3ASLHLEABUNQ)
+  ![1_hydrogen_isotopes](https://i.ibb.co/2W6MS4x/1-hydrogen-isotopes.png)
 
 - The isotopes of an element have the **same chemical properties**. 
 
