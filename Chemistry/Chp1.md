@@ -157,7 +157,7 @@ $$
 
 - The isotopes of an element have the **same chemical properties**. 
 
-  - Isotopes have the same electronic configuration. It determine the way it forms bonds and react with other atoms.
+  - Isotopes have the **same electronic configuration**. It determine the way it forms bonds and react with other atoms.
 
 - The isotopes **differ in some of their physical properties** (such as density, rate of diffusion)
 
@@ -205,4 +205,158 @@ $$
 ### Electronic Configuration of Elements
 
 #### Bohr's atomic theory
+
+- electrons are in **orbit** around the central nucleus of an atom
+- the electron orbits are called **electron shells / energy levels** and have different energy
+- **shells that are further from the nucleus have higher energies**
+- the shells are filled starting with the one with lowest energy (closest to the nucleus)
+- the first shell can hold only two electrons
+- the outermost shells can hold eight electrons to give a stable arrangement of electrons
+- If the number of electrons of an atom is more than 20, the third shell will hold 18 electrons. If the numbers of electrons is 20 or less, the third shell will hold 8 electrons
+- **electron arrangement / configuration**: the way in which the electrons are distributed in the shells of an atom
+
+##### Example of Electron Configurations of The First 20 Elements
+
+| Element    | Symbol | Atomic Number (Z) | Electron configuration |
+| ---------- | ------ | ----------------- | ---------------------- |
+| hydrogen   | H      | 1                 | 1                      |
+| boron      | B      | 5                 | 2.3                    |
+| oxygen     | O      | 8                 | 2.6                    |
+| neon       | Ne     | 10                | 2.8                    |
+| magnesium  | Mg     | 12                | 2.8.2                  |
+| phosphorus | P      | 15                | 2.8.5                  |
+| potassium  | K      | 19                | 2.8.8.1                |
+
+##### Another way of showing electron structure
+
+![1_electronic_structure](https://i.ibb.co/f0Pfsy1/1-electronic-structure.png)
+
+##### Periodic Table
+
+- The electron configuration of an element determines the group number and period number of that element in the periodic table
+
+## Chemical Formulae
+
+### Nomenclature of Inorganic Compounds
+
+#### Binary Covalent Compounds
+
+- Covalent / molecular compounds are form when nonmetal elements bond to each other
+
+- The first element in the formula is simply listed using the name of the element. 
+
+- The second element is named by taking the stem of the element name and adding the suffix -ide. 
+
+- A system of numerical prefixes is used to specify the number of atoms in a molecule.
+
+  | Atoms in Compound | Prefix on the Name of the Element             |
+  | :---------------- | :-------------------------------------------- |
+  | 1                 | mono-*(not used for the first element’s name) |
+  | 2                 | di-                                           |
+  | 3                 | tri-                                          |
+  | 4                 | tetra-                                        |
+  | 5                 | penta-                                        |
+  | 6                 | hexa-                                         |
+  | 7                 | hepta-                                        |
+  | 8                 | octa-                                         |
+  | 9                 | nona-                                         |
+  | 10                | deca-                                         |
+
+##### Examples
+
+| Chemical Formula | IUPAC name           |
+| ---------------- | -------------------- |
+| NO               | nitrogen monoxide    |
+| SF~6~            | sulfur hexoxide      |
+| ClO~2~           | chlorine dioxide     |
+| NCl~3~           | nitrogen trifluoride |
+| I~2~O~5~         | diiodine pentoxide   |
+
+##### Exceptions
+
+- Compounds that are always called by the common names
+
+  | chemical formula | common name |
+  | ---------------- | ----------- |
+  | H~2~O            | water       |
+  | NH~3~            | ammonia     |
+  | CH~4~            | methane     |
+  | PH~3~            | phosphine   |
+
+- Common name that getting used more frequently than systematic name
+
+  | chemical formula | systematic name                      | common name   |
+  | ---------------- | ------------------------------------ | ------------- |
+  | NO               | nitrogen monoxide                    | nitric oxide  |
+  | N~2~O            | dinitrogen monoxide                  | nitrous oxide |
+  | NaCl             | sodium chloride                      | table salt    |
+  | NaHCO~3~         | sodium hydrogencarbonate/bicarbonate | baking soda   |
+  | MgSO~4~          | magnesium sulfate                    | Epsom salt    |
+
+#### Ionic Compounds
+
+- Ionic compounds are formed when metal atoms lose one or more of their electrons to nonmetal atoms.
+
+- Ionic compounds are made up of ions.
+
+- Some elements can form two different ions, we can use two ways too distinct them:
+
+  - **Stock System** (Modern approach)
+  - Common System
+
+  | Ion    | stem  | charge | modern name    | common name |
+  | ------ | ----- | ------ | -------------- | ----------- |
+  | Iron   | ferr- | 2+     | iron(II) ion   | ferrous ion |
+  |        |       | 3+     | iron(III) ion  | ferric ion  |
+  | copper | cupr- | 1+     | copper(I) ion  | cuprous ion |
+  |        |       | 2+     | copper(II) ion | cupric ion  |
+
+##### Common Cations
+
+![1-common-cations](https://i.ibb.co/8mdZVjD/1-common-cations.jpg)
+
+##### Common Anions
+
+![1-common-anions](https://i.ibb.co/qJmBvcD/1-common-anions.jpg)
+
+##### Examples
+
+| Compounds | Name              |
+| --------- | ----------------- |
+| NaCl      | sodium chloride   |
+| CaBr~2~   | calcium bromide   |
+| Mg~3~N~2~ | magnesium nitride |
+
+### Nomenclature of Acids
+
+#### Acids that doesn't Contain Oxoanion
+
+- Naming as Ionic compounds
+
+  - first write the cation(usually hydrogen), then write the anion
+  - Ionic name is preferred when the compound is not acting as an acid
+    - i.e. pure HCl in gas phase
+
+- Naming as Acids
+
+  - Add prefix hydro- to the name of anion, then replace the last syllable from –ide to –ic acid. 
+  - Acid name is preferred when the compound acts as an acid
+    - particularly when it is in solution form in water
+
+- Examples
+
+  | Compounds | name(aqueous)      | name(gas)         |
+  | --------- | ------------------ | ----------------- |
+  | HCl       | hydrochloric acid  | hydrogen chloride |
+  | HBr       | hydrobromic acid   | hydrogen bromide  |
+  | H~2~S     | hydrosulfuric acid | hydrogen sulfide  |
+  | HF        | hydrofluoric acid  | hydrogen fluoride |
+  | HI        | hydroiodic acid    | hydrogen iodine   |
+  | *HCN      | hydrocyanic acid   | hydrogen cyanide  |
+
+  - all above the above are binary acids, except HCN
+
+#### Acids that Contains Oxoanion & Others
+
+![1-polyatomic-ions](https://i.ibb.co/5vbHSZz/1-polyatomic-ions.jpg)
 
