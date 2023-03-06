@@ -11,3 +11,8 @@
 
 ---
 
+## Chemical Bonds
+
+![Chemical Bonds Summary](https://i.ibb.co/m0zkM5Z/2-summary-of-chemical-bondings.png)
+
+- Chemical bonding involves the outer electrons of each atom

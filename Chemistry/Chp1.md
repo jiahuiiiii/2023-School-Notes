@@ -4,9 +4,8 @@
 >
 > - Classification of Matter(states, particles)
 > - *Change of State
-> - Structure of Atoms(History, Electronic *Structure)
-> - *Chemical Formulae
-> - Oxidation Numbers
+> - Structure of Atoms(History, Electronic *Structure, Isotopes)
+> - *Chemical Formulae(Nomenclatures, Oxidation Numbers)
 > - Physical and Chemical Properties
 > - Separation of Mixtures
 
@@ -38,6 +37,16 @@
 - There're three types of particles that made up matters: **atoms**, **molecules**, **ions**
 
 ![1_particles_of_matter](https://i.ibb.co/3fw1yB8/1-particles-of-matter.png)
+
+#### Difference between Compounds and Mixtures
+
+| Compounds                                                    | Mixtures                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| A compound is a single substance.                            | A mixture contains two or more substances.                   |
+| The composition is always the same.                          | The composition can be varied.                               |
+| The formation involves a chemical reaction.                  | No chemical change takes place when made.                    |
+| The properties are very different from the elements present in the compound. | The properties of the substances making the mixture are still present. |
+| Can only be broken down by chemical reactions.               | The substances present can be separated by physical methods. |
 
 ## The Change of State of Matter
 
@@ -231,9 +240,25 @@ $$
 
 ![1_electronic_structure](https://i.ibb.co/f0Pfsy1/1-electronic-structure.png)
 
-##### Periodic Table
+## Periodic Table
 
 - The electron configuration of an element determines the group number and period number of that element in the periodic table
+
+![Periodic Table](https://i.ibb.co/2yMtPpN/1-pink-periodic-table.jpg)
+
+| Metal     | Metalloid | Non-metal  |
+| --------- | --------- | ---------- |
+| Lithium   | Boron     | Hydrogen   |
+| Beryllium | Silicon   | Helium     |
+| Sodium    |           | Carbon     |
+| Magnesium |           | Nitrogen   |
+| Aluminum  |           | Oxygen     |
+| Potassium |           | Fluorine   |
+| Calcium   |           | Neon       |
+|           |           | Phosphorus |
+|           |           | Sulfur     |
+|           |           | Chlorine   |
+|           |           | Argon      |
 
 ## Chemical Formulae
 
@@ -360,3 +385,224 @@ $$
 
 ![1-polyatomic-ions](https://i.ibb.co/5vbHSZz/1-polyatomic-ions.jpg)
 
+### Oxidation Numbers
+
+- An atom’s **oxidation number** (or **oxidation state**) is the **imaginary charge** that the atom would have if all of the bonds to the atom were completely **ionic**. 
+
+  ![Oxidation Numbers](https://i.ibb.co/Hhd2y4d/1-oxidation-numbers.png)
+
+#### Guidelines
+
+- **An atom of a free element** has an **oxidation number of 0**. 
+
+  - i.e. Cl~2~, H~2~, S~8~, P~4~, Fe, Na
+
+- **A monatomic ion** has an oxidation number equal to its **charge**.
+
+  - i.e. the oxidation number of Cu^2+^ is +2, Br ^-^ is -1
+
+- When combined with other elements
+
+  - **alkali metals** (Group IA) always have an oxidation number of **+1**
+
+  - **alkaline earth metals** (Group IIA) always have an oxidation number of **+2**
+
+  - oxidation number of **aluminum ions** is always **+3**
+
+  - **transition metal ions** have **variable oxidation number**
+
+    | Transition Metal | Oxidation Number of Metal | Examples of Compounds |
+    | ---------------- | ------------------------- | --------------------- |
+    | copper           | +1                        | CuO~2~                |
+    |                  | +2                        | CuO                   |
+    | iron             | +2                        | FeCl~2~               |
+    |                  | +3                        | FeCl~3~               |
+    | manganese        | +2                        | MnO                   |
+    |                  | +4                        | MnO~4~                |
+    |                  | +7                        | Mn~2~O~7~             |
+
+- **Fluorine** has an oxidation number of **-1** in all compounds.
+
+- **Hydrogen** has an oxidation number of **+1** in most compounds. 
+
+  - The major exception is when hydrogen is combined with metals, as in NaH, a, H or LiAlH~4~ (**metal hydrides**). In these cases, the oxidation number of hydrogen is **-1**
+
+- **Oxygen** has an oxidation number of **-2** in most compounds. 
+
+  - The major exception is in **peroxides** (compounds containing O~2~^2-^), where oxygen has an oxidation number of **−1** 
+    - i.e. H~2~O~2~, Na~2~O~2~
+
+- The **other halogens** (Cl, Br, I) have an oxidation number of **−1** in compounds
+
+  - unless combined with **oxygen** or **fluorine**. 
+    - i.e. the oxidation number of Cl n the ion ClO~4~^-^ is +7
+
+- **The sum of the oxidation numbers** for all atoms in a **neutral compound** is equal to **zero**
+
+- While he sum for all atoms in a **polyatomic ion** is equal to the **charge on the ion**. 
+
+  - Consider the polyatomic ion NO~3~^-^. Each O atom has an oxidation number of -2. Since the overall charge on the ion is −1, the oxidation number of the N atom must be +5.
+
+- One thing to note is that oxidation numbers are written with the **sign (+ or -) *before* the number**. This is in contrast to the charges on ions, which are written with the sign *after* the number.
+
+## Physical and Chemical Properties
+
+### Physical Properties and Physical Change
+
+#### Physical Properties
+
+- Characteristics that can be observed without changing the substances that make up the material
+
+
+| Examples                |                                                 |
+| ----------------------- | ----------------------------------------------- |
+| boiling point           | melting point                                   |
+| odor                    | lustre(the brightness that a shiny surface has) |
+| density                 | attraction to magnet                            |
+| electrical conductivity | thermal conductivity                            |
+| color                   | malleability(ability to be drawn in sheets)     |
+| hardness                | ductility(ability to be drawn in wires)         |
+
+#### Physical Changes
+
+- The substances present remain chemically the same, no new substances are formed
+- often easy to reverse
+
+| Examples                               | Reversibility |
+| -------------------------------------- | ------------- |
+| a liquid boiling                       | reversible    |
+| salt dissolving in water               | reversible    |
+| wood being chopped                     | irreversible  |
+| a mixture of color being separated out | reversible    |
+| peeling an orange                      | irreversible  |
+
+### Chemical Properties and Chemical Change
+
+#### Chemical Properties
+
+- Characteristics that indicate if a material can undergo a certain chemical change
+
+<table>
+ <thead>
+  <td colspan="2"><b>Examples</b></td>
+ </thead>
+ <tr>
+  <td>chemical stability</td>
+  <td>ability to oxide</td>
+ </tr>
+ <tr>
+  <td>radioactivity</td>
+  <td>half-life</td>
+ </tr>
+ <tr>
+  <td>flammability</td>
+  <td>acidity</td>
+ </tr>
+</table>
+
+#### Chemical Change
+
+- the major feature of a chemical change, or reaction, is that new substance(s) are made during the reaction
+- many reactions are difficult to reverse
+- during a chemical reaction, energy can be given out (exothermic change) or taken in (endothermic change)
+  - there're many more exothermic change than endothermic change
+
+- Examples
+  - the formation of rust
+  - baking a cake
+  - photosynthesis in plants
+  - explosion
+
+### Differences between Chemical and Physical Changes
+
+| Physical Changes                                             | Chemical Changes                                             |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| don't form new substances, substances change in size, shape or state | form new substances                                          |
+| involves the transfer of energy from one substance to another | substances gain or lose energy, heat and light may be produced |
+| often reversible                                             | often irreversible                                           |
+
+## Separation of Mixtures
+
+![1-separation-of-mixture](https://i.ibb.co/dLNzf5f/1-separation-of-mixtures.png)
+
+### Details
+
+1. Evaporation
+
+   - Used to separate a solute from a solution by **heating** the solution until the **solvent evaporates**, leaving behind a solid residue
+   - *separate solid(soluble) from liquid*
+
+2. Crystallization
+
+   - Used to separate a solid solute from a liquid solution by **cooling the solution** until the **solute crystallizes** out. 
+   - The crystals can then be collected and dried to obtain a purified solid.
+   - *separate solid(soluble) from liquid*
+
+3. Filtration
+
+   - Used to separate a solid from a liquid or gas by passing the mixture through a filter medium
+   - *separate solid(insoluble) from liquid or gas*
+
+4. Decantation
+
+   - Used to separate a solid from a liquid by carefully pouring off the liquid without disturbing the solid at the bottom of the container
+   - This method is often used in conjunction with other methods, such as centrifugation or filtration, to separate the solid from the liquid more effectively.
+   - *separate solid(insoluble) from a liquid*
+
+5. Centrifugation
+
+   - Used to separate solid particles from a liquid by spinning the mixture at a high speed, which causes the denser particles to settle at the bottom
+   - *separate solid(insoluble) from a liquid*
+
+6. Sublimation
+
+   - Used to separate a mixture of a solid and a volatile component that sublimes when heated.
+   - Involves heating the mixture until the volatile component sublimes, leaving behind the solid residue.
+   - *separate solid from a solid (one can sublimes)* 
+
+7. Distillation
+
+   - Based on the different boiling points of the two liquids
+   - Useful when the boiling points of the two liquids differ significantly
+   - The mixture is heated until the liquid with the lowest boiling point evaporates, then the vapor is collected and condensed to obtain a purified liquid.
+   - *separate liquid from a liquid (miscible)* 
+
+8. Separating Funnel
+
+   - Used when the two liquids have different densities and are immiscible.
+   - Involves pouring the mixture into a separatory funnel and allowing it to settle, then draining off the denser liquid from the bottom of the funnel
+   - *separate liquid from a liquid (immiscible)*
+
+9. Solvent Extraction
+
+   - Used when the two liquids have different solubilities in a particular solvent. 
+   - The mixture is mixed with a solvent that selectively dissolves one of the liquids, and the two liquids are separated by draining off the solvent layer, usually using separatory funnel.
+   - *separate a solid and a liquid* (dissolving the solid into a solvent)
+
+10. Fractional distillation
+
+    - Used when the boiling points of the two liquids are close to each other
+    - Involves using a fractionating column to separate the components based on their vapor pressures
+    - The mixture is heated, and the vapor is allowed to rise up through the column. As the vapor rises, it cools and condenses on the column's surface, and the more volatile component condenses and drips back into the flask. The less volatile component condenses further up the column and is collected separately.
+    - *separate liquid from a liquid (miscible, similar boiling point)*   
+
+11. Diffusion
+
+    - Used to separate the two mixtures that have different molecular sizes.
+    - Diffusion is a process in which molecules move from an area of higher concentration to an area of lower concentration. 
+    - However, diffusion alone may not be an effective method to separate two mixtures.
+    - dialysis
+      - Separate the mixture through diffusion by using a semipermeable membrane. 
+      - A semipermeable membrane is a barrier that allows only certain molecules to pass through it. 
+      - By placing the mixture on one side of the membrane, the smaller molecules will diffuse through the membrane more easily than the larger molecules. 
+    - gas diffusion
+      - The two mixtures are separated by a barrier that allows gas molecules to pass through it
+      - The gas molecules will diffuse through the barrier based on their size and concentration, allowing the two mixtures to be separated.
+    - *separate two gas*
+
+12. Paper Chromatography
+
+    ![paper-chromatography](https://i.ibb.co/SmxY39v/1-paper-chromatography.png)
+
+    - Used to separate a mixture based on the differences in the components' solubility and attraction to a stationary phase and a mobile phase.
+    - *separate two or more dissolve solid in a solution*
