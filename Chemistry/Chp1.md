@@ -30,7 +30,7 @@
 |             Particles             |       closely packed        | slightly further apart | far apart from one another |
 | Attraction Force & Kinetic Energy |          E~k~ < F           |        E~k~ ≈ F        |          E~k~ > F          |
 
-- Attraction forces (F) between the particles won't change, but the kinetic energy (E~k~) of particles will be affected by heat. 
+- **Attraction forces (F)** between the particles won't change, but the kinetic energy (E~k~) of particles will be affected by heat. 
 
 ### Particles
 
@@ -58,7 +58,7 @@
 ### Boiling & Evaporation
 
 - **Evaporation** take place over a range of temperatures, only take place from the surface of the liquid
-  - the rate of evaporation may be affected by the temperature and surface area
+  - the rate of evaporation may be affected by the **temperature** and **surface area**
   - *volatile*: term that describes a liquid that evaporates easily
     - usually a liquid with low boiling point because there're weal intermolecular forces between the molecules in the liquid
 - **Boiling** takes place at a **specific temperature**
@@ -71,7 +71,7 @@
 - Iodine can exist in liquid state. The iodine seems to miss out the liquid stage if heated strongly because the temperature rises very quickly, the m.p. and b.p. are close together, the liquid stage is not seen as it boils quickly
   - To make iodine melt to form a liquid at atmospheric pressure: 
     - heat the solid slowly
-    - use some tools(electrical heater, oil bath) to control the rise of temperature carefully
+    - use some tools (electrical heater, oil bath) to control the rise of temperature carefully
 
 ### Heating and Cooling Curves
 
@@ -606,3 +606,11 @@ $$
 
     - Used to separate a mixture based on the differences in the components' solubility and attraction to a stationary phase and a mobile phase.
     - *separate two or more dissolve solid in a solution*
+
+
+
+---
+
+`well I guess that's pretty much it. It isn't perfect in any way, but it took way too long time, so I guess I have to end it roughly xD.`
+
+`jiahuiiiii @ 7th March 2023 2348`
