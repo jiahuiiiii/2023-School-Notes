@@ -78,7 +78,7 @@
 ![1_heating_curve](https://i.ibb.co/SfC27Vr/1-heating-curve.png)
 
 - The **temperature stays constant** during the state changes.
-- During heating, all the energy absorbed at m.p. and b.p. goes into weakening the attraction forces between particles without temperature rise.
+- *During heating, all the energy absorbed at m.p. and b.p. goes into weakening the attraction forces between particles without temperature rise.*
 - During colling, all the heat energy released at condensation point and freezing point is given out into increasing of the intermolecular forces without temperature falls.
 - *exothermic changes*: freezing, condensing
 - *endothermic changes*: melting, boiling, evaporation
@@ -346,11 +346,12 @@ $$
 
 ##### Examples
 
-| Compounds | Name              |
-| --------- | ----------------- |
-| NaCl      | sodium chloride   |
-| CaBr~2~   | calcium bromide   |
-| Mg~3~N~2~ | magnesium nitride |
+| Compounds        | Name                           |
+| ---------------- | ------------------------------ |
+| NaCl             | sodium chloride                |
+| CaBr~2~          | calcium bromide                |
+| Mg~3~N~2~        | magnesium nitride              |
+| MgSO~4~ · 7H~2~O | magnesium sulfate heptahydrate |
 
 ### Nomenclature of Acids
 
@@ -384,6 +385,8 @@ $$
 #### Acids that Contains Oxoanion & Others
 
 ![1-polyatomic-ions](https://i.ibb.co/5vbHSZz/1-polyatomic-ions.jpg)
+
+*manganate
 
 ### Oxidation Numbers
 
