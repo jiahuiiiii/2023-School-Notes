@@ -182,3 +182,5 @@
 ### Comparisons Between Ionic Compounds and Covalent Compounds
 
 ![Comparisons Between Ionic Compounds and Covalent Compounds](https://i.ibb.co/6B63Gct/2-Comparisons-Between-Ionic-Compounds-and-Covalent-Compounds.png)
+
+`by jiahuiiiii @ 27th April 2023`
