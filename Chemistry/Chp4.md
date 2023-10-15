@@ -77,7 +77,7 @@ $$
 - Mass of 1cm^3^ of solution in grams
 
 $$
-Density\;by\;solution\;(gcm^{-3}/gml^{-1}) = \frac{mass\;of\;solution\;(g)}{volume\;of\;solution\;(cm^{-3})}
+Density\;of\;solution\;(gcm^{-3}/gml^{-1}) = \frac{mass\;of\;solution\;(g)}{volume\;of\;solution\;(cm^{-3})}
 $$
 
 1. Given the density of 125 ml 20% HCl~(aq)~ at 20°C is 1.098 gml^-1^, Calculate the mass of 
@@ -262,7 +262,18 @@ $$
 
 ### Indicators
 
-bruh
+An indicator is a substance that has different colors in acidic and alkaline solutions.
+
+| Indicators      | Color in acids   | Original color | Color in alkalis |
+| --------------- | ---------------- | -------------- | ---------------- |
+| phenolphthalein | colorless (pH<8) | colorless      | pink (pH>10)     |
+| litmus          | red              | purple         | blue             |
+| methyl orange   | red (pH<3)       | orange         | yellow (pH>5)    |
+
+- Common indicators for titration: phenolphthalein & methyl orange
+  - acid into base: phenolphthalein
+  - base into acid: methyl orange
+  - The endpoint is not accurately 7
 
 ### Acids
 
@@ -364,11 +375,56 @@ $$
 | H~2~SO~4~    | 2 / diprotic / dibasic     |
 | H~3~PO~4~    | 3 / triprotic / tribasic   |
 
-。。。。
+#### Properties of dilute acids
 
-## Bases
+1. sour taste
+
+2. hazardous
+
+3. change the color of indicators
+
+   - litmus test: Acids turn blue litmus red
+
+4. react with reactive metals
+   $$
+   \ce{reactive metal + dilute acid -> hydrogen gas + salt}
+   $$
+
+   - *observation: effervescence 
+   - *test for hydrogen gas
+
+5. react with carbonates and hydrogencarbonates
+   $$
+   \ce{carbonate + dilute acid -> salt + water + carbon dioxide} \\
+   \ce{hydrogencarbonate + dilute acid -> salt + water + carbon dioxide} \\
+   $$
+
+   - *observation: 
+     - effervescence observed
+     - colorless, odorless gas evolved
+   - eg... (observation?)
+
+6. react with metal oxides and hydroxides
+   $$
+   \ce{metal oxide + dilute acid -> salt + water} \\
+   \ce{hydroxide + dilute acid -> salt + water} \\
+   $$
+
+   - *observation
+
+#### The Importance of water for acids
+
+- The presence of water is essential for the formation of hydrogen ions and it is only the presence of these ions which causes acidity. Without water, an acid won't show the properties of acid.
+
+- e.g. HCl~(g)~ behaves differently when dissolved in water and in an organic solvent.
+
+### Ionic Equation
+
+### Oxides
 
 ....
+
+
 
 #### Peroxides and superoxide
 
@@ -377,6 +433,139 @@ $$
 - metal peroxides react with cold dilute acid to yield hydrogen peroxide
 
 ##### super oxide
+
 $$
 \ce{K2_{(s)} + O2_{(g)} -> KO2_{(s)}}
 $$
+
+
+
+
+
+## Bases
+
+### Arrhenius Base
+
+### Bases and alkalis
+
+- 
+
+#### Strong and weak bases
+
+### Properties of alkalis
+
+
+
+
+
+## Salts
+
+### Definition
+
+Salts are formed by the replacement of one or more hydrogen ions of an acid with metal ions or ammonium ion.
+
+### Preparing Salts
+
+#### Preparing Insoluble Salts / Precipitation Reaction
+
+#### Preparing Soluble Salts
+
+### Solubility
+
+#### Dissolution process
+
+- solution crystalize
+  - rate of dissolution > rate of crystallizations
+- dynamic equilibrium
+  - rate of dissolution = rate of crystallization
+  - the solution is saturated in that solute
+
+#### Types of solution
+
+1. unsaturated solution
+2. saturated solution
+3. supersaturated solution
+   1. unstable, the presence of dust or the addition of a small quantity of solid solute can cause the excess solute to crystalize of from the solution
+
+#### Solubility
+
+The solubility of a substance is the quantity that dissolves to form a saturated solution. It is often expressed as grams of solute per 100g H~2~O. (x g / 100g H~2~O)
+$$
+\text{percentage by mass of the solution} = \frac{m(solute)}{m(solution)}
+$$
+
+#### Factors affecting Solubility
+
+##### Temperature
+
+- The solubilities of most molecular and ionic **solids** increase with increasing temperature
+- All **gases** become less soluble in water as the temperature increases
+
+- Temperature affects solubility because it influences the **kinetic energy** of molecules and their interactions. In general, increasing temperature leads to greater solubility for solids in liquids, while it decreases solubility for gases in liquids.
+
+##### Pressure
+
+- Pressure has practically no effect of the solubility of liquids and solids, but has a profound effect on the solubility of **gases**
+
+- **Henry's Law** provides a mathematical relationship for the effect of temperature on the solubility of gases in liquids.
+  $$
+  C = kP
+  \\ Solubility \propto kP
+  $$
+  
+  - C is the concentration of dissolved gas
+  - k is the Henry's Law constant characteristic of each specific gas
+  - P is the partial pressure of the gas over the solution
+  
+
+#### Solubility Calculations
+
+1. If 12.3g of lead(II) nitrate(V) were saturated in 21.0g of distilled water at 20°C, calculate the solubility of the solute. [58.6g/100g water]
+
+2. At a given temperature, 730.cm³ of water were saturated with 6.35 moles of zinc nitrate(V). Calculate the solubility of the solute at that temperature, in grams per 100g of water. (Assuming that the density of water is 1g/ml) [164.40g]
+
+3. The solubility of potassium chlorate(V) at 80°C is 40g per 100g water. 
+
+   (a) What mass of the potassium chlorate(V) will saturate 65g of water at 80°C? [26g]
+
+   (b) What mass of water will be saturated by 56g of potassium chlorate(V) at 80°C? [140g]
+
+   (c) Calculate the mass of solute in 123g of saturated solution at 80°C. [35.14g]
+
+4. The solubility of potassium nitrate(V) is 180g per 100g water at 83°C and 70g per 100g water at 40°C. Calculate the mass of potassium nitrate(V) that will crystallize out of solution if 155g of the saturated solution at 83°C cooled to 40°C. 
+
+## Volumetric Analysis
+
+### Acid-base titration
+
+#### Detecting the end point
+
+- The **end point** of a titration is the point at which the **indicator changes color**.
+- Indicators are used to detect the end point. To be effective, an indicator must give a **sharp change in color**.
+
+- **Phenolphthalein** and **methyl orange** are the two commonly used indicators. (Litmus and Universal Indicator are not used, as the changes in color at the end point are not sharp.)
+
+|                     | Acidic    | Neutral   | Basic  |
+| ------------------- | --------- | --------- | ------ |
+| **Phenolphthalein** | colorless | colorless | pink   |
+| **Methyl orange**   | red       | yellow    | yellow |
+
+#### Use of titrations in analysis
+
+...
+
+## Others
+
+### *Test of gases
+
+#### H~2~
+
+If hydrogen is present in a test tube, a burning splinter held near its mouth ignites with a squeaky pop sound.
+
+#### O~2~
+
+Use a glowing splinter insert into test tube. If the glowing splinter reignites, it's oxygen.
+
+#### Cl~2~
+
+Chlorine has a characteristic sharp, choking smell. It makes damp blue litmus paper turn red, and then bleaches it white.
