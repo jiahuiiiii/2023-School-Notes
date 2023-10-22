@@ -29,13 +29,12 @@
 
 #### Physical Properties
 
-1. Soft metals which can be easily cut with knife
+1. **Soft metals** which can be easily cut with knife
    - Number of delocalized electron is lesser compared to other metals, the metallic bond is weaker
-2. Silvery solids with shiny surface
-3. Lower melting / boiling point, compared to other metals
-   - On going down, number of delocalized electron remains unchanged, but the distance between delocalized electron and positive atoms is increased, the attraction force is decrease, the b.p. and m.p. is therefore lower when going down the group
-4. Lower density
-5. Good conductivity of heat and electricity
+2. **Silvery** solids with **shiny** surface
+3. **Lower melting / boiling point** compared to other metals.
+4. **Lower density** compared to other metals
+5. Good **conductivity** of heat and electricity
 
 ##### Trend in physical properties when going down the group
 
@@ -43,7 +42,7 @@
 | ------------------------------- | --------- | ------------------------------------------------------------ |
 | 1. Atomic size                  | Increases | The number of electron shells increases when descending the group. |
 | 2. Density                      | Increases | Mass increases faster than the increase in radius.           |
-| 3. Melting point / Boling point | Decreases | - Atomic size increases. <br/>- Metallic bond between atoms become weaker. |
+| 3. Melting point / Boling point | Decreases | - Atomic size increases. <br/>- The distance between single delocalized electron and positive atoms is increased.<br/>- Metallic bond between atoms become weaker. |
 | 4. Electropositivity            | Increases | - Electropositivity: a measurement of the ability of an atom to lose an electron and form a cation. <br/>- Atomic size increases. <br/>- The attractive force between the positive nucleus and the single valence electron becomes weaker. <br/>- The atom loses electron more easily. |
 
 #### Chemical Properties
@@ -59,57 +58,7 @@
 
 #### Chemical Reactions
 
-##### (i) Group 1 metals react with water to produce alkali and hydrogen gas
-
-| Alkali Metal | Observation                                   | Equation                                        |
-| ------------ | --------------------------------------------- | ----------------------------------------------- |
-| Lithium      | Reacts readily with water                     | 2Li~(s)~ + 2H~2~O~(l)~ —> 2LiOH~(aq)~ + H~2(g)~ |
-| Sodium       | Reacts vigorously; Catches fire               | 2Na~(s)~ + 2H~2~O~(l)~ —> 2NaOH~(aq)~ + H~2(g)~ |
-| Potassium    | Reacts violently; Catches fire; then explodes | 2K~(s)~ + 2H~2~O~(l)~ —> 2KOH~(aq)~ + H~2(g)~   |
-
-##### (ii) Group 1 metals can be oxidized in air to form white metal oxides
-
-- Due to the formation of dull oxide on the surface, alkali metals **tarnish in air**.
-- Equation
-  - 4Li~(s)~ + O~2(g)~ —> 2Li~2~O~(s)~
-  - 4Na~(s)~ + O~2(g)~ —> 2Na~2~O~(s)~
-  - 4K~(s)~ + O~2(g)~ —> 2K~2~O~(s)~
-
-######  Alkali metals burn in sufficient oxygen with characteristic flame colors
-
-![6_group1_flame_test](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\6_group1_flame_test.jpg)
-
-| Metal | Li         | Na     | K      | Rb         | Cs   |
-| ----- | ---------- | ------ | ------ | ---------- | ---- |
-| Color | Bright red | Yellow | Violet | Red violet | Blue |
-
-- **Flame test**: Flame tests are used to preliminary identify the presence of metal ions in a compound. Not all metal ions give flame colors. 
-
-###### Alkali Metals burning in sufficient oxygen form various oxides
-
-1. Potassium
-   - Observations
-     - Sodium burns vigorously with lilac / violet flame and forms a mixture of **potassium superoxide** and **sodium peroxide**. 
-   - Equation
-     - K~(s)~ + O~2(g)~ —> KO~2(s)~ (potassium superoxide)
-     - 2K~(s)~ + O~2(g)~ —> K~2~O~2(s)~ (potassium peroxide)
-2. Sodium 
-   - Observations
-     - Sodium starts burning **immediately** in air when heated or put under a flame.
-     - Sodium burns with yellow flame and forms a mixture of **sodium oxide** and **sodium peroxide**. 
-   - Equation
-     - 4Na~(s)~ + O~2(g)~ —> 2Na~2~O~(s)~
-     - 2Na~(s)~ + O~2(g)~ —> Na~2~O~2(s)~
-
-##### (ii) Group 1 metals react with halogen to form white metal halides
-
-- All of the alkali metals react vigorously with chlorine gas. 
-- Each reaction produces a white crystalline salt.
-- The reaction gets more violent as you move down Group IA.
-- Equation
-  - 2Li~(s)~ + Cl~2(g)~ —> 2LiCl~(s)~
-  - 2Na~(s)~ + Cl~2(g)~ —> 2NaCl~(s)~
-  - 2K~(s)~ + Cl~2(g)~ —> 2KCl~(s)~
+![6_Chemical Reactions of Group 1 Elements](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\6_Chemical Reactions of Group 1 Elements.png)
 
 ### Group 17 (Group VIIA, halogens)
 
@@ -123,7 +72,7 @@
 3. Low density.
 4. **Low melting and boiling point**, because the halogen molecules are attracted by **weak van der Waals force**.
    - van der Waals force ∝ molecule size
-   - I~2(s)~ > Br~2(l)~ > Cl~2(g)~ > F~2(g)~ [25℃]
+   - I~2(s)~ > Br~2(l)~ > Cl~2(g)~ > F~2(g)~    [at 25℃]
 
 ##### Trend in physical properties when going down the group
 
@@ -164,7 +113,7 @@
 | -------- | ---------------------------------------- | ---------------------------------------------------- | ----------------------------------------------- |
 | Chlorine | Dissolves rapidly; light yellow solution | Blue turns red, then decolorized                     | Cl~2(g)~ + H~2~O~(l)~  ⇌ HCl~(aq)~ + HOCl~(aq)~ |
 | Bromine  | Dissolves slowly; reddish brown solution | Blue turns red, then decolorized after a longer time | Br~2(g)~ + H~2~O~(l)~  ⇌ HBr~(aq)~ + HOBr~(aq)~ |
-| Fluorine | Dissolves slightly; pale brown solution  | Blue turns red, is not decolorized                   | I~2(g)~ + H~2~O~(l)~  ⇌ Hl~(aq)~ + HOI~(aq)~    |
+| Iodine   | Dissolves slightly; pale brown solution  | Blue turns red, is not decolorized                   | I~2(g)~ + H~2~O~(l)~  ⇌ Hl~(aq)~ + HOI~(aq)~    |
 
 ##### (ii) Group 17 elements react with sodium hydroxide to produce water and salt
 
@@ -178,12 +127,12 @@
 
 #### Physical Properties
 
-1. All noble gases are insoluble in water.
-2. They're non-conductors of heat and electricity.
-3. Very low density. Due to the atoms are very far apart.
-4. The density of noble gases increases when descending the group, due to the atomic mass increases faster than the increase in radius.
+1. All noble gases are **insoluble** in water.
+2. They're **non-conductors** of heat and electricity.
+3. Very **low density**. Due to the atoms are very far apart.
+4. The **density** of noble gases **increases** when descending the group, due to the atomic mass increases faster than the increase in radius.
 5. Noble gases have **very low melting and boiling point**. This is because noble gases exist as **monoatomic molecules** which are attracted by **weak van der Waals forces**, less energy is required to overcome the forces.
-6. However, the melting and boiling point increases when going down the group, because atomic size increases, causing van der Waals forces stronger and more energy is required to overcome the forces.
+6. However, the **melting and boiling point increases** when going down the group, because atomic size increases, causing van der Waals forces stronger and more energy is required to overcome the forces.
 
 #### Chemical Properties
 
@@ -205,7 +154,7 @@
 | 2. Electronegativity             | Increases                                                    | - Electronegativity: a measurement of **tendency of an element to attract protons**. <br/>- The increase in number of protons and decrease in atomic radius cause **increase** in **attractive force between nucleus and outermost shell electron**. <br/>- The **electronegativity increases** when moving across period. |
 | 3. Melting point / Boiling Point | a. Increases (from left to the middle of period)             | - ***Na, Mg and Al*** are metals with strong metallic bond between atoms. <br/>- The strength of **metallic bond increases** from Na to Al with **increase** in number of protons and **valence electrons**. <br/>- Hence, they have high melting and boiling point |
 |                                  | b. Very high melting and boiling point (at the middle of the period) | - ***Si*** has very high melting and boiling point. <br/>- It forms a **giant covalent network structure**, atoms are held by **strong covalent bond**. <br/>- A large amount of energy is required to break to strong covalent bond. |
-|                                  | c. Decreases (from the middle to right of period)            | - ***P, S, Cl and Ar*** are non-metals with **weak van der Waal's force** between molecules. <br/>- They have low melting and boiling point. <br/>- m.p. **S~8~ > P~4~ > Cl~2~ > Ar** |
+|                                  | c. Decreases (from the middle to right of period)            | - ***P, S, Cl and Ar*** are non-metals with **weak van der Waals force** between molecules. <br/>- They have low melting and boiling point. <br/>- m.p. **S~8~ > P~4~ > Cl~2~ > Ar** |
 
 | Characteristic       | Trend                                                        |
 | -------------------- | ------------------------------------------------------------ |
@@ -219,7 +168,7 @@
 
 #### Special Characteristic
 
-1. Have more than one oxidation state
+1. Have **more than one oxidation state**
 
    | Transition Metals | Oxidation States |
    | ----------------- | ---------------- |
@@ -230,7 +179,7 @@
 
    - Exception: Zinc, only form Zn^2+^
 
-2. Form colored compounds
+2. Form **colored compounds**
 
    | Transition Ions | Color |
    | --------------- | ----- |
@@ -241,17 +190,14 @@
 
    - Exception: Zn^2+^ & Sc^3+^
 
-3. From complex ions
+3. From **complex ions**
 
    - e.g. [Cu(NH~3~)~4~]^2+^
 
-4. Used as catalyst
+4. Used as **catalyst**
 
    | Transition metals / compounds | Process         | Usage                 |
    | ----------------------------- | --------------- | --------------------- |
    | V~2~O~5~                      | Contact process | produce sulfuric acid |
    | Pt                            | Ostwald process | produce nitric acid   |
    | Fe                            | Haber process   | produce ammonia       |
-
-## Bonding
-
