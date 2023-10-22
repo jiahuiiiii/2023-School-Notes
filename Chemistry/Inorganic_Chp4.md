@@ -443,3 +443,61 @@ $$
 
 ## Nitric(V) Acid
 
+### Laboratory Preparation
+
+Nitric acid can be displaced from any **nitrate(V)** by the action of **concentrated sulfuric acid**, which is a less volatile acid.
+$$
+\ce{2NaNO3_{(aq)} + conc\text{.} H2SO4_{(aq)} -> Na2SO4_{(aq)} + 2HNO3_{(l)}}
+$$
+![i4_nitric_acid_laboratory](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_nitric_acid_laboratory.png)
+
+- An all-glass apparatus must be used in this preparation because the nitric(V) acid vapor formed will rapidly attack cork or rubber.
+- The yellow coloration of the acid is due to the dissolution of the nitrogen dioxide impurity in the acid. Pure acid can be obtained by bubbling air through the acid solution to remove this gas.
+  - the oxygen in air oxidize nitrogen dioxide into dinitrogen pentoxide, N~2~O~5~, which is the anhydride of nitric acid
+
+### Industrial Preparation
+
+Nitric acid is manufactured by the **catalytic oxidation of ammonia**. The process is also known as the ***Ostwald process***.
+
+![i4_ostwald_process](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_ostwald_process.png)
+
+1. **Catalytic oxidation of ammonia**
+   $$
+   \ce{4NH3_{(g)} + 5O2_{(g)} ->[Pt-Rh, 700-900°C] 4NO_{(g)} + 6H2O_{(g)}}
+   $$
+
+   - The ammonia reacts with excess air, in the presence of a **platinum-rhodium catalyst at 700-900°C**, to produce nitrogen monoxide and steam.
+
+2. **Oxidation of nitrogen monoxide**
+   $$
+   \ce{2NO_{(g)} + O2_{(g)} ->[50°C] 2NO2_{(g)}}
+   $$
+
+   - The nitrogen monoxide formed is cooled and mixed with **excess air** to produce nitrogen dioxide at room temperature
+
+3. **Reaction with water to form nitric acid**
+   $$
+   \ce{4NO2_{(g)} + 2H2O_{(l)} + O2_{(g)} -> 4HNO3_{(g)}}
+   $$
+
+   - In the presence of more **air**, the nitrogen dioxide is then **dissolved** in a spray of water to yield a nitric(V) acid solution up to 50% concentration. (the oxygen in air oxidize HNO~2~ to HNO~3~)
+
+### Physical Properties
+
+1. Pure nitric acid is a fuming **colorless** liquid with a sharp choking smell. 
+
+2. It tends to turn **yellowish** after some time due to the **decomposition** of some of the acid to yield **nitrogen dioxide** which then dissolves in it.
+   $$
+   \ce{4HNO3_{(aq)}->[sunlight, room temp\text{.}] 4NO2_{(g)} + O2_{(g)} + 2H2O_{(l)}}
+   $$
+   
+3. Boiling point = 86°C, density = 1.52gcm^-3^.
+
+4. The pure acid is very corrosive and rapidly destroys organic matter including our skin.
+
+5. Dilute nitric acid turns blue litmus paper red.
+
+### Chemical Properties
+
+In general, the chemical behavior of nitric acid depends on its **concentration**.
+
