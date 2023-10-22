@@ -35,8 +35,8 @@ $$
 
 2. ***Calcium and magnesium*** burn **vigorously** in air to from **white oxides**.
     $$
-    \ce{2Ca_{(s)} + O2_{(g)} -> 2CaO_{(s)}} \\
-    \ce{2Mg_{(s)} + O2_{(g)} -> 2MgO_{(s)}} \\
+    \ce{2Ca_{(s)} + O2_{(g)} ->[\Delta] 2CaO_{(s)}} \\
+    \ce{2Mg_{(s)} + O2_{(g)} ->[\Delta] 2MgO_{(s)}} \\
     $$
 
     - Metals appear **dull** when exposed to air due to the layer of oxide on the surface.
@@ -55,20 +55,17 @@ $$
     \ce{3Fe_{(s)} + 2O2_{(g)} ->[\Delta] Fe3O4_{(s)\,[black\,crystal]}}\\
     $$
 
-    
-
-
     - The oxides of **aluminum and zinc** are amphoteric in nature and are insoluble in water.
-
+    
       - **Amphoteric oxides** can react with both acids and alkalis to produce salts and water as the only products.
-
+    
     - The oxides layer of **aluminum and zinc** formed adheres to the surface and serves as a **protective layer** against further oxidation. [**Passivation**]
-
+    
     - Iron (II) oxide can be further oxidized to iron (III) oxide (under high temperature).
       $$
       \ce{4FeO_{(s)} + O2_{(g)} ->[\Delta] 2Fe2O3_{(s) [reddish\,brown\,powder]}}
       $$
-
+    
     - The layer of oxide formed by **iron** is soft and falls off, exposing fresh metallic surface for **further oxidation**.
 
 4. ***Tin, lead, copper and mercury*** have very little reaction with air. **Strong heating** is required and the **layer of oxide** normally forms on the **surface** only. (they **do not burn**)
