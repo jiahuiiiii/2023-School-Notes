@@ -200,27 +200,27 @@ $$
 $$
 Two of these hydroxides dissolve in **excess ammonia** due to the formation of **water-soluble complexes**.
 $$
-\ce{Cu(OH)2_{(s)} + 4NH3_{(aq)} -> $\underset{\text{deep blue}}{\ce{[Cu(NH3)4]^{2+}_{(aq)}}}$ + 2OH-_{(aq)}} \\
-\ce{Zn(OH)2_{(s)} + 4NH3_{(aq)} -> $\underset{\text{deep blue}}{\ce{[Zn(NH3)4]^{2+}_{(aq)}}}$ + 2OH-_{(aq)}} \\
+\ce{Cu(OH)2_{(s)} + 4NH3_{(aq)} -> $\underset{\text{deep blue}}{\ce{[Cu(NH3)4]}}$^{2+}_{(aq)} + 2OH-_{(aq)}} \\
+\ce{Zn(OH)2_{(s)} + 4NH3_{(aq)} -> $\underset{\text{colorless}}{\ce{[Zn(NH3)4]}}$^{2+}_{(aq)} + 2OH-_{(aq)}} \\
 $$
 
 ##### Note
 
 1. Formation of precipitate
    $$
-   \ce{Cu^2+^_{(aq)} + 2NH3.H2O_{(aq)} -> $\underset{\text{blue}}{\ce{Cu(OH)2_{(s)}}}$ + 2NH^4+^_{(aq)}} \\
+   \ce{Cu^2+^_{(aq)} + 2NH3.H2O_{(aq)} -> $\underset{\text{blue}}{\ce{Cu(OH)2}}$_{(s)} + 2NH^4+^_{(aq)}} \\
    $$
 
 2. Formation of complex ion
 
    - ionic equation
      $$
-     \ce{Cu(OH)2_{(s)} + 4NH3_{(aq)} -> $\underset{\text{deep blue}}{\ce{[Cu(NH3)4]^{2+}_{(aq)}}}$ + 2OH-_{(aq)}} \\
+     \ce{Cu(OH)2_{(s)} + 4NH3_{(aq)} -> $\underset{\text{deep blue}}{\ce{[Cu(NH3)4]}}$_^{2+}_{(aq)} + 2OH-_{(aq)}} \\
      $$
 
    - chemical equation
      $$
-     \ce{Cu(OH)2_{(s)} + 4NH3.H2O_{(aq)} -> $\underset{\text{deep blue}}{\ce{[Cu(NH3)4](OH)2_{(aq)}}}$ + 4H2O_{(aq)}} \\
+     \ce{Cu(OH)2_{(s)} + 4NH3.H2O_{(aq)} -> $\underset{\text{deep blue}}{\ce{[Cu(NH3)4](OH)2}}$_{(aq)} + 4H2O_{(aq)}} \\
      $$
 
 ### Test for Ammonia
@@ -260,7 +260,7 @@ $$
    \ce{(NH4)2SO4_{(s)} ->[\Delta] 2NH3_{(g)} + H2SO4_{(aq)}} \\
    \ce{(NH4)2CO3_{(s)} ->[\Delta] 2NH3_{(g)} + H2O_{(l)} + CO2_{(g)}} \\
    \ce{NH4NO2_{(s)} ->[\Delta] N2_{(g)} + 2H2O_{(l)}} \\
-   \ce{2NH4NO3_{(s)} ->[\Delta] 2N2_{(g)} + O2_{(g)} + 4H2O_{(l)}} \\
+   \ce{NH4NO3_{(s)} ->[\Delta] N2O_{(g)} + 2H2O_{(l)}} \\
    \ce{(NH4)2Cr2O7_{(s)} ->[\Delta] Cr2O3_{(s)} + 2N2_{(g)} + 4H2O_{(l)}} \\
    $$
 
@@ -381,4 +381,65 @@ $$
 
 ### Dinitrogen monoxide
 
-Dinitrogen monoxide, N~2~O, known as laughing gas. If inhaled, produced a peculiar intoxication, which could result in uncontrollable fits of laughter.
+Dinitrogen monoxide, **N~2~O**, known as **laughing gas**. If inhaled, produced a peculiar intoxication, which could result in uncontrollable fits of laughter.
+
+#### Laboratory Preparation
+
+Dinitrogen monoxide can be prepared by the **thermal decomposition of ammonium nitrate(V)**.
+$$
+\ce{NH4NO3_{(s)} ->[\Delta] N2O_{(g)} + 2H2O_{(l)}}
+$$
+
+
+![i4_dinitrogen_oxide_laboratory_prep](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_dinitrogen_oxide_laboratory_prep.png)
+
+However, the direct heating of ammonium nitrate(V) is dangerous because the reaction may be explosive. Therefore, the gas is prepared by **heating any mixture of salts which by double decomposition will yield ammonium nitrate(V)**.
+$$
+\ce{KNO3_{(s)} + NH4Cl_{(s)} ->[\Delta] KCl_{(s)} + N2O_{(g)} + 2H2O_{(l)}}
+$$
+
+#### Physical Properties
+
+1. colorless gas with faint, pleasant but sickly smell, and sweetish taste
+2. fairly soluble in cold water
+3. 1.5 denser than air
+4. neutral to moist litmus paper
+5. has a boiling point of -88°C, and a melting point of -102°C
+
+#### Chemical Properties
+
+1. Action of heat
+
+   - Dinitrogen oxide **decomposes** rapidly at about 600°C into its component elements, nitrogen and **oxygen**, the latter of which **supports combustion**.
+     $$
+     \ce{2N2O_{(g)} ->[600°C] 2N2_{(g)} + O2_{(g)}}
+     $$
+
+   - Thus, dinitrogen oxide **rekindles a brightly glowing splinter**, which is hot enough to decompose it to yield oxygen. However, it **extinguishes a feebly glowing one**.
+
+   - Similarly, it **supports the combustion of any burning substance**, which is **hot enough to decompose** it to yield oxygen
+     $$
+     \ce{C_{(s)} + 2N2O_{(g)} ->[600°C] CO2_{(g)} + 2N2_{(g)}} \\
+     \ce{Mg_{(s)} + N2O_{(g)} ->[600°C] MgO_{(s)} + N2_{(g)}} \\
+     $$
+     
+
+2. Reduction reaction
+
+   - It is reduced to nitrogen when passes over heated copper or iron.
+     $$
+     \ce{Cu_{(s)} + N2O_{(g)} ->[600°C] N2_{(g)} + CuO_{(s)}}
+     $$
+
+#### Uses
+
+1. Mild anesthetic for minor surgical operation such as dental surgery
+2. Propellant in whipped cream
+3. Oxidizing agent in racecars 
+
+### Comparisons of the oxides of nitrogen
+
+![i4_Comparisons of The Oxides of Nitrogen](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_Comparisons of The Oxides of Nitrogen.png)
+
+## Nitric(V) Acid
+
