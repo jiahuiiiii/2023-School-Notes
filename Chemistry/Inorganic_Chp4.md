@@ -15,7 +15,7 @@
 
    ![i4_nitrogen_laboratory_prep_1](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_nitrogen_laboratory_prep_1.png)
    $$
-   \ce{NaNO2_{(aq)} + NH4Cl_{(aq)} ->[\Delta] NaCl_{(aq)} + N2_{(g)} + 2H2O_{(g)}} \\
+   \ce{NaNO2_{(aq)} + NH4Cl_{(aq)} ->[\Delta] NaCl_{(aq)} + N2_{(g)} + 2H2O_{(l)}} \\
    (\ce{NaNO2_{(aq)} + NH4Cl_{(aq)} ->[\Delta] NaCl_{(aq)} + NH4NO2_{(aq)\,[unstable]}})
    $$
 
@@ -48,6 +48,8 @@
 
 ### Chemical Properties
 
+#### Oxidation States
+
 |     NH~3~      | N~2~ | N~2~O |  NO  | HNO~2~ / N~2~O~3~ | NO~2~ | NHO~3~ / N~2~O~5~ |
 | :------------: | :--: | :---: | :--: | :---------------: | :---: | :---------------: |
 |       -3       |  0   |  +1   |  +2  |        +3         |  +4   |        +5         |
@@ -62,7 +64,7 @@
 
 - e.g. 1 Red hot magnesium combines directly with nitrogen to produce magnesium nitride. The nitride is **hydrolyzed** (water[OH^-^] is added) when it is **warmed** together with a little **water**, and **ammonia gas** is produced. 
   $$
-  \ce{3Mg_{(s)\,[red\,hot]} + N2_{(g)} -> Mg3N2_{(s)\,[greenish\,yellow\,solid]}} \\
+  \ce{\underset{red hot}{3Mg_{(s)}} + N2_{(g)} -> \underset{greenish yellow}{Mg3N2_{(s)}}} \\
   \ce{Mg3N2_{(s)} + 6H2O_{(l)} ->[\Delta] 3Mg(OH)2_{(s)} + 2NH3_{(g)}}
   $$
 
@@ -124,8 +126,10 @@ $$
 
 - Concentrated sulfuric acid and calcium chloride cannot be used as the drying agents because ammonia reacts with them.
   $$
-  \ce{2NH3_{(g)} + 2H2SO4_{(l)} -> (NH4)2SO4_{(aq)}} \text{ (acidic, absorbs the gas)}\\
-  \ce{4NH3_{(g)} + CaCl2_{(s)} -> CaCl2·4NH3_{(g)}} \text{ (forms a complex compound with ammonia)}
+  \begin{align*}
+  &\ce{2NH3_{(g)} + 2H2SO4_{(l)} -> (NH4)2SO4_{(aq)}} \text{ (acidic, absorbs the gas)}\\
+  &\ce{4NH3_{(g)} + CaCl2_{(s)} -> CaCl2·4NH3_{(g)}} \text{ (forms a complex compound with ammonia)}
+  \end{align*}
   $$
   
 
@@ -191,6 +195,7 @@ $$
 
 Aqueous ammonia precipitates the hydroxides of most metals from solutions of their salts.
 $$
+\ce{Mg^2+^_{(aq)} + 2NH3.H2O_{(aq)} -> $\underset{\text{white}}{\ce{Mg(OH)2_{(s)}}}$ + 2NH^4+^_{(aq)}} \\
 \ce{Fe^3+^_{(aq)} + 3NH3.H2O_{(aq)} -> $\underset{\text{reddish brown}}{\ce{Fe(OH)3_{(s)}}}$ + 3NH^4+^_{(aq)}} \\
 \ce{Zn^2+^_{(aq)} + 2NH3.H2O_{(aq)} -> $\underset{\text{white}}{\ce{Zn(OH)2_{(s)}}}$ + 2NH^4+^_{(aq)}} \\
 \ce{Pb^2+^_{(aq)} + 2NH3.H2O_{(aq)} -> $\underset{\text{white}}{\ce{Pb(OH)2_{(s)}}}$ + 2NH^4+^_{(aq)}} \\
@@ -246,8 +251,10 @@ $$
 
 Ammonia forms the **ammonium ion, NH~4~^+^, in solution**. Ammonium salts are prepared by **dissolving ammonia in the appropriate acid** or by **neutralizing aqueous ammonia with the appropriate acid**. The ammonium salts are then separated out of solution by **crystallization**, and not by evaporation because they're easily decomposed by dry heating.
 $$
-\ce{NH3_{(g)} + HCl_{(aq)} -> NH4Cl_{(aq)}} \\
-\ce{NH3.H2O_{(aq)} + HNO3_{(aq)} -> NH4NO3_{(aq)} + H2O_{(l)}}
+\begin{align*}
+&\ce{NH3_{(g)} + HCl_{(aq)} -> NH4Cl_{(aq)}} \\
+&\ce{NH3.H2O_{(aq)} + HNO3_{(aq)} -> NH4NO3_{(aq)} + H2O_{(l)}}
+\end{align*}
 $$
 
 ### Properties
@@ -256,18 +263,21 @@ $$
 
 2. All ammonium salts **decompose** to give **ammonia gas** on **heating**, except **NH~4~NO~2~, NH~4~NO~3~, (NH~4~)~2~Cr~2~O~7~.**
    $$
-   \ce{NH4Cl_{(s)} <=> NH3_{(g)} + HCl_{(g)}} \\
-   \ce{(NH4)2SO4_{(s)} ->[\Delta] 2NH3_{(g)} + H2SO4_{(aq)}} \\
-   \ce{(NH4)2CO3_{(s)} ->[\Delta] 2NH3_{(g)} + H2O_{(l)} + CO2_{(g)}} \\
-   \ce{NH4NO2_{(s)} ->[\Delta] N2_{(g)} + 2H2O_{(l)}} \\
-   \ce{NH4NO3_{(s)} ->[\Delta] N2O_{(g)} + 2H2O_{(l)}} \\
-   \ce{(NH4)2Cr2O7_{(s)} ->[\Delta] Cr2O3_{(s)} + 2N2_{(g)} + 4H2O_{(l)}} \\
+   \begin{align*}
+   &\ce{NH4Cl_{(s)} <=>[\Delta] NH3_{(g)} + HCl_{(g)}} \\
+   &\ce{(NH4)2SO4_{(s)} ->[\Delta] 2NH3_{(g)} + H2SO4_{(aq)}} \\
+   &\ce{(NH4)2CO3_{(s)} ->[\Delta] 2NH3_{(g)} + H2O_{(l)} + CO2_{(g)}} \\
+   &\ce{NH4NO2_{(s)} ->[\Delta] N2_{(g)} + 2H2O_{(l)}} \\
+   &\ce{NH4NO3_{(s)} ->[\Delta] N2O_{(g)} + 2H2O_{(l)}} \\
+   &\ce{(NH4)2Cr2O7_{(s)} ->[\Delta] Cr2O3_{(s)} + N2_{(g)} + 4H2O_{(l)}} \\
+   \end{align*}
    $$
-
+   
 3. All ammonium salts liberate **ammonia** when **heated with bases or alkalis**.
    $$
-   \ce{NH4Cl_{(s)} + NaOH_{(aq)} ->[\Delta] NaCl_{(aq)} + H2O_{(l)} + NH3_{(g)}} \\
-   \ce{2NH4Cl_{(s)} + Ca(OH)2_{(aq)} ->[\Delta] CaCl2_{(aq)} + 2H2O_{(l)} + 2NH3_{(g)}} \\
+   \begin{align*}
+   &\ce{NH4Cl_{(aq)} + NaOH_{(aq)} ->[\Delta] NaCl_{(aq)} + H2O_{(l)} + NH3_{(g)}} \\
+   &\ce{2NH4Cl_{(aq)} + Ca(OH)2_{(s)} ->[\Delta] CaCl2_{(aq)} + 2H2O_{(l)} + 2NH3_{(g)}} \end{align*}
    $$
 
 ### Test for ammonium salts
@@ -307,7 +317,7 @@ Nitrogen monoxide can be prepared by the **action of nitric acid on most metals*
 
 Some nitrogen dioxide is produced during the process, mostly by the reaction of nitrogen monoxide formed with the oxygen in the flask. However, nitrogen dioxide is moderately soluble in water and so is removed by bubbling the gases through water.
 $$
-\ce{3Cu_{(s)} + 8HNO3_{(aq)} -> 3Cu(NO3)2_{(aq)} + 4H2O_{(l)} + 2NO_{(g)}}
+\ce{3Cu_{(s)} + \underset{dilute}{8HNO3}_{(aq)} -> 3Cu(NO3)2_{(aq)} + 4H2O_{(l)} + 2NO_{(g)}}
 $$
 
 #### Physical Properties
@@ -322,7 +332,7 @@ $$
 
 The gas turns reddish-brown on exposure to air to form nitrogen dioxide.
 $$
-\ce{$\underset{\text{colorless}}{\ce{2NO_{(g)}}}$ + O2{(g)} -> $\underset{\text{brown}}{\ce{2NO2_{(g)}}}$}
+\ce{$\underset{\text{colorless}}{\ce{2NO_{(g)}}}$ + O2_{(g)} -> $\underset{\text{brown}}{\ce{2NO2_{(g)}}}$}
 $$
 
 ### Nitrogen dioxide
@@ -337,9 +347,9 @@ $$
    \ce{2Pb(NO3)2_{(s)} ->[\Delta] 2PbO_{(s)} + O2_{(g)} + 4NO2_{(g)}}
    $$
 
-2. Reaction of copper on **hot concentrated nitric(V) acid**.
+2. Reaction of **copper** on **hot concentrated nitric(V) acid**.
    $$
-   \ce{Cu_{(s)} + 4HNO3_{(l)} -> Cu(NO3)2_{(aq)} + 2NO2_{(g)} + 2H2O_{(l)}}
+   \ce{Cu_{(s)} + conc\text{. }4HNO3_{(l)} -> Cu(NO3)2_{(aq)} + 2NO2_{(g)} + 2H2O_{(l)}}
    $$
    
 
@@ -366,17 +376,19 @@ $$
 
 ##### Reaction with water
 
-It disproportionates in water to form a mixture of nitric acid and nitrous acid. The gas (NO~2~) is a mixed acid anhydride.
+It disproportionates in water to form a mixture of **nitric acid** and **nitrous acid**. The gas (NO~2~) is a **mixed acid anhydride**. (*disproportionation reaction)
 $$
 \ce{2NO2_{(g)} + H2O_{(l)} -> HNO3_{(aq)} + HNO2_{(aq)}}
 $$
 
 ##### Reaction with alkalis
 
-Since the gas is a mixed acid anhydrides, it reacts with alkalis to yield a mixture of nitrite and nitrate salts.
+Since the gas is a mixed acid anhydrides, it reacts with alkalis to yield a mixture of **nitrite** and **nitrate** salts. (*disproportionation reaction)
 $$
-\ce{2OH-_{(aq)} + 2NO2_{(g)} -> NO3-_{(aq)} + NO2-_{(aq)} + H2O_{(l)}} \\
-\ce{2NaOH_{(aq)} + 2NO2_{(g)} -> NaNO3_{(aq)} + NaNO2_{(aq)} + H2O_{(l)}}
+\begin{align*}
+&\ce{2OH-_{(aq)} + 2NO2_{(g)} -> NO3-_{(aq)} + NO2-_{(aq)} + H2O_{(l)}} \\
+&\ce{2NaOH_{(aq)} + 2NO2_{(g)} -> NaNO3_{(aq)} + NaNO2_{(aq)} + H2O_{(l)}}
+\end{align*}
 $$
 
 ### Dinitrogen monoxide
@@ -447,7 +459,7 @@ $$
 
 Nitric acid can be displaced from any **nitrate(V)** by the action of **concentrated sulfuric acid**, which is a less volatile acid.
 $$
-\ce{2NaNO3_{(aq)} + conc\text{.} H2SO4_{(aq)} -> Na2SO4_{(aq)} + 2HNO3_{(l)}}
+\ce{2NaNO3_{(aq)} + conc\text{.} H2SO4_{(aq)} ->[>200°C] Na2SO4_{(aq)} + 2HNO3_{(l)}} \\\ce{NaNO3_{(aq)} + \underset{excess}{conc\text{.} H2SO4_{(aq)}} ->[<200°C] \underset{acid salt}{NaHSO4}_{(aq)} + HNO3_{(l)}}
 $$
 ![i4_nitric_acid_laboratory](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_nitric_acid_laboratory.png)
 
@@ -501,3 +513,161 @@ Nitric acid is manufactured by the **catalytic oxidation of ammonia**. The proce
 
 In general, the chemical behavior of nitric acid depends on its **concentration**.
 
+| Dilute nitric acid   | Pure / Concentrated nitric acid |
+| -------------------- | ------------------------------- |
+| almost fully ionized | poorly ionized                  |
+| strongly acidic      | strong oxidizing power          |
+
+#### As an acid
+
+1. Nitric acid **neutralizes bases and alkalis** to form **metallic nitrate(V) and water**.
+   $$
+   \begin{align*} 
+   & \ce{HNO3_{(aq)} + NaOH_{(aq)} -> NaNO3_{(aq)} + H2O_{(l)}} \\
+   & \ce{2HNO3_{(aq)} + PbO_{(s)} -> Pb(NO3)2_{(aq)} + H2O_{(l)}} \\
+   & \ce{2HNO3_{(aq)} + CuO_{(s)} -> Cu(NO3)2_{(aq)} + H2O_{(l)}} \\
+   & \ce{2HNO3_{(aq)} + CaO_{(s)} -> Ca(NO3)2_{(aq)} + H2O_{(l)}} \\
+   \end{align*}
+   $$
+
+2. It reacts with **carbonates** and **hydrogencarbonates** to liberate **carbon dioxide**.
+   $$
+   \begin{align*} 
+   & \ce{2HNO3_{(aq)} + Na2CO3_{(aq)} -> 2NaNO3_{(aq)} + H2O_{(l)} + CO2_{(g)}} \\
+   & \ce{HNO3_{(aq)} + NaHCO3_{(aq)} -> NaNO3_{(aq)} + H2O_{(l)} + CO2_{(g)}} \\
+   \end{align*}
+   $$
+
+3. Unlike other acids, it rarely gives **hydrogen** with metals, except in the action of **very dilute nitric acid (about 1%)** on calcium, magnesium or manganese. This is because any hydrogen that is initially formed is **immediately oxidized by more of the acid to form water**.
+   $$
+   \ce{Mg_{(s)} + \underset{very dilute (1\%)}{2HNO3_{(aq)}} -> Mg(NO3)2_{(aq)} + H2_{(g)}}
+   $$
+
+#### As an oxidizing agent
+
+Nitric acid (especially concentrated) is a **strong oxidizing agent**. A wide variety of reduction products is possible, e.g. NO~2~, HNO~2~, NO, N~2~O, N~2~, NH~2~OH, N~2~H~4~ and NH~4~^+^, depending on the **acid concentration**, the **strength of the reducing agent** and the **temperature**.
+
+##### 1. With non-metals
+
+**Hot concentrated nitric acid** oxidizes non-metals to their ***highest oxides***, which may be then **react with the water** to form the corresponding **acids**. At the same time, the acid itself is reduced to ***nitrogen dioxide***.
+$$
+\begin{align*} 
+& \ce{C_{(s)} + 4HNO3_{(l)} ->[\Delta] 2H2O_{(l)} + CO2_{(g)} + 4NO2_{(g)}} \\
+& \ce{S_{(s)} + 6HNO3_{(l)} ->[\Delta] H2SO4_{(aq)} + 2H2O_{(l)} + 6NO2_{(g)}} \\
+& \ce{P_{(s)} + 4HNO3_{(l)} ->[\Delta] H3PO4_{(aq)} + H2O_{(l)} + 5NO2_{(g)}} \\
+\end{align*}
+$$
+
+##### 2. With metals
+
+Generally, metals near the bottom of the electrochemical series (e.g. **lead, copper, mercury, silver**) react with nitric acid as follows.
+$$
+\begin{align*}
+&\ce{Cu_{(s)} + \underset{conc\text{.}}{\ce{4H\overset{+5}{N}O3_{(l)}}} -> Cu(NO3)2_{(aq)} + 2H2O_{(l)} + 2\overset{+4}{N}O2_{(g)}}  \\
+&\ce{Cu_{(s)} + \underset{about 50\%}{\ce{8H\overset{+5}{N}O3_{(aq)}}} -> 3Cu(NO3)2_{(aq)} + 4H2O_{(l)} +2\overset{+2}{N}O_{(g)}} 
+\end{align*}
+$$
+Metals high up the electrochemical series react with nitric acid depending on the temperature and concentration of nitric acid. With **magnesium, zinc and iron**. They react with dilute nitric acid to form the respective metallic nitrates and ammonium nitrate or nitrogen monoxide.
+$$
+\begin{align*}
+&(\ce{4Zn_{(s)} + \underset{very dilute (6\%)}{\ce{10HNO3}}_{(aq)} -> 4Zn(NO3)2_{(aq)} + 3H2O_{(l)} + \underset{unstable}{\ce{NH4NO3}}_{(aq)}})  \\
+&(\ce{4Zn_{(s)} + \underset{very dilute (6\%)}{\ce{10H\overset{+5}{N}O3}}_{(aq)} ->[\Delta] 4Zn(NO3)2_{(aq)} + 5H2O_{(l)} + \overset{+1}{N}_2O_{(g)}} ) \\
+&\ce{3Zn_{(s)} + \underset{dilute}{\ce{8H\overset{+5}{N}O3}}_{(aq)} ->[\Delta] 3Zn(NO3)2_{(aq)} + 4H2O_{(l)} + 2\overset{+2}{N}O_{(g)}}  \\
+&\ce{Zn_{(s)} + \underset{conc\text{.}}{\ce{4H\overset{+5}{N}O3}}_{(aq)} ->[\Delta] Zn(NO3)2_{(aq)} + 2H2O_{(l)} + \overset{+4}{N}O2_{(g)}}  \\
+\end{align*}
+$$
+Some metals (e.g. **aluminum, chromium, iron**) react with concentrated nitric acid to form an oxide layer which covers the surface of the metal and protects it from further attack by he acid. Such metals are made passive by nitric acid. (**passivation**)
+
+Certain metals such as **gold and platinum** are not affected by nitric acid. They're known as the **noble metals**.
+
+##### With other reducing agents
+
+$$
+\begin{align*}
+&(\ce{3H2S_{(g)} + \underset{dilute}{\ce{2H\overset{+5}{N}O3}}_{(aq)} ->3\overset{0}{S}_{(s)} + 4H2O_{(l)} + 2\overset{+2}{N}O_{(g)}})  \\
+&\ce{H2S_{(g)} + \underset{conc\text{.} \& cold}{\ce{2H\overset{+5}{N}O3}}_{(l)} ->\overset{0}{S}_{(s)} + 2H2O_{(l)} + \overset{+4}{N}O2_{(g)}}  \\
+&(\ce{H2S_{(g)} + \underset{conc\text{.} \& hot}{\ce{2H\overset{+5}{N}O3}}_{(l)} ->H2\overset{+6}{S}O4_{(aq)} + 4H2O_{(l)} + 8\overset{+4}{N}O2_{(g)}} ) \\
+&\ce{3Fe^2+^_{(aq)} + 4H+_{(aq)} + NO3-_{(aq)} -> 3Fe^3+^_{(aq)} + NO_{(g)} + 2H2O_{(l)}}
+\end{align*}
+$$
+
+#### Decomposition
+
+Nitric acid decomposes slowly at room temperature (especially in the presence of sunlight), and rapidly when heated to yield nitrogen dioxide and oxygen. Nitrogen dioxide dissolve in nitric acid and causes it to become yellow.
+$$
+\ce{4HNO3_{(aq)} ->[\Delta] 4NO2_{(g)} + 2H2O_{(l)} + O2_{(g)}}
+$$
+
+### Uses
+
+1. Nitric acid is used as an **acid**, an **oxidizing agent** and a **nitrating agent** in the laboratory.
+2. It is used as an oxidizing agent in the production of important **polymers** like nylon and Terylene.
+3. It is also used as a **rocket fuel**.
+4. A mixture of three parts of hydrochloric acid and one part of nitric acid (三盐一硝), **aqua regia**, is used as a solvent for gold and platinum.
+5. It is used in the making of many nitrates and organic nitro-compounds which are used as **fertilizers**, **dyes** and **explosives (e.g. TNT)**.
+
+## The nitrates
+
+### Preparation
+
+- the neutralization of nitric acid with the appropriate alkali
+  $$
+  \ce{HNO3_{(aq)} + NaOH_{(aq)} -> NaNO3_{(aq)} + H2O_{(l)}}
+  $$
+
+- the action of nitric acid on a metal, a metallic oxide, or carbonate
+  $$
+  \begin{align*}
+  &\ce{2HNO3_{(aq)} + Na_{(s)} -> NaNO3_{(aq)} + H2O_{(l)} + NO2_{(g)}}\\
+  &\ce{2HNO3_{(aq)} + Na2O_{(s)} -> 2NaNO3_{(aq)} + H2O_{(l)}} \\
+  &\ce{2HNO3_{(aq)} + Na2CO3_{(s)} -> 2NaNO3_{(aq)} + H2O_{(l)} + CO2_{(g)}} \\
+  \end{align*}
+  $$
+
+### Properties
+
+1. All nitrates are soluble in water
+
+2. Nitrates decompose differently by heat according their thermal stability
+
+   ![i1_Thermal Decomposition of Metal Nitrates](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i1_Thermal Decomposition of Metal Nitrates.png)
+   $$
+   \ce{NH4NO3_{(s)} ->[\Delta] N2O_{(g)} + H2O_{(l)}}
+   $$
+
+3. All nitrates produce nitric acid when heated with concentrated sulfuric acid.
+   $$
+   \ce{NaNO3_{(aq)} + H2SO4_{(aq)} ->[\Delta] HNO3_{(aq)} + NaSO4_{(aq)}}
+   $$
+
+4. Identification of NO~3~^-^ (***Brown ring test*** for NO~3~^-^ and HNO~3~)
+
+   ![i4_brown_ring_test](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_brown_ring_test.jpg)
+
+   - When **conc. H~2~SO~4~** is added slowly *down the side* of a test tube containing a solution of **nitrate** and *freshly prepared* **iron(II) sulfate, FeSO~4~**, the acid *sinks* to the bottom and two liquid layers are formed. At the junction of two layers, a **brown compound** is formed
+
+   1. The nitrate ion reacts with the concentrated sulfuric acid to yield nitric acid.
+      $$
+      \ce{H2SO4_{(aq)} + NO3-_{(aq)} -> HSO4-_{(aq)} + HNO3_{(aq)}}
+      $$
+
+   2. Some of the nitric acid formed is reduced by FeSO~4~ to yield NO.
+      $$
+      \begin{align*}
+      &\ce{2HNO3_{(aq)} + 3H2SO4_{(aq)} + 6FeSO4_{(aq)} -> 3Fe2(SO4)3_{(aq)} + 4H2O_{(l)} + 2NO_{(g)}} \\
+      &\ce{6Fe^{2+}_{(aq)} + 2NO3-_{(aq)} + 8H+_{(aq)} -> 6Fe^{3+}_{(aq)} + 4H2O_{(l)} + 2NO_{(g)}}
+      \end{align*}
+      $$
+
+   3. The NO then combines with more of the FeSO~4~ to form a brown addition compound, **FeSO~4~·NO** which appears at the junction of two layers as a **brown ring**.
+      $$
+      \begin{align*}
+      &\ce{FeSO4_{(aq)} + NO_{(g)} -> \underset{brown ring}{FeSO4.NO}_{(aq)}} \underset{ \text{ *SPM}}{}\\
+      &\ce{FeSO4_{(aq)} + NO_{(g)} + 5H2O_{(l)} -> \underset{brown ring}{[Fe(NO)(H2O)5]SO4}_{(aq)}}\underset{ \text{ *UEC}}{}
+      \end{align*}
+      $$
+
+### Some Important Nitrates
+
+- Potassium nitrate (**saltpeter**) is used in making **gun powder**.
+- Sodium nitrate (**Chile saltpeter**) is poisonous, white, crystalline compound used in solid **rocket propellants**, in **matches**, in **curing meat**, and as a **fertilizer**.
