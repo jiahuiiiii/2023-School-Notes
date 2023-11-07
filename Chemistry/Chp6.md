@@ -4,12 +4,12 @@
 
 #### Group
 
-| Group    | Name                 |
-| -------- | -------------------- |
-| Group 1  | Alkali Metal         |
-| Group 2  | Alkaline Earth Metal |
-| Group 17 | Halogens             |
-| Group 18 | Noble Gases          |
+| Group    | Name                  |
+| -------- | --------------------- |
+| Group 1  | Alkali Metals         |
+| Group 2  | Alkaline Earth Metals |
+| Group 17 | Halogens              |
+| Group 18 | Noble Gases           |
 
 - The vertical columns of Periodic Table
 - There're **18 groups** (Group 1 - 18) arranged according to the number of valence electrons.
@@ -42,7 +42,7 @@
 | ------------------------------- | --------- | ------------------------------------------------------------ |
 | 1. Atomic size                  | Increases | The number of electron shells increases when descending the group. |
 | 2. Density                      | Increases | Mass increases faster than the increase in radius.           |
-| 3. Melting point / Boling point | Decreases | - Atomic size increases. <br/>- The distance between single delocalized electron and positive atoms is increased.<br/>- Metallic bond between atoms become weaker. |
+| 3. Melting point / Boling point | Decreases | - Atomic size increases. <br/>- The distance between delocalized electron and positive atom is increased.<br/>- Metallic bond between atoms become weaker.<br/>- Less heat energy is needed to overcome the attraction force between delocalized electron and positive metal atoms. |
 | 4. Electropositivity            | Increases | - Electropositivity: a measurement of the ability of an atom to lose an electron and form a cation. <br/>- Atomic size increases. <br/>- The attractive force between the positive nucleus and the single valence electron becomes weaker. <br/>- The atom loses electron more easily. |
 
 #### Chemical Properties
@@ -91,9 +91,9 @@
 - When two atoms with different electronegativity bond covalently, the electron pair will be pulled more to the atom with higher electronegativity.
 - The Pauling scale is most commonly used. Fluorine (the most electronegative element) is assigned a value of 4.0, and values ranges down to francium which is the least electronegative at 0.7.
 - **F > O > Cl > N > Br > I > S > C > H > metals** 
-- No electronegativity difference between two atoms leads to a pure non-polar covalent bond.
-- A small electronegativity difference leads to a polar covalent bond.
-- A large electronegativity difference leads to an ionic bond.
+- No electronegativity difference between two atoms leads to a pure **non-polar covalent bond**.
+- A small electronegativity difference leads to a **polar covalent bond**.
+- A large electronegativity difference leads to an **ionic bond**.
 
 #### Chemical Properties
 
@@ -143,14 +143,13 @@
 
 ### Period 3
 
-- The elements in period 3: Sodium (Na), Magnesium (Mg), Aluminum (Al), Silicon (Si), Phosphorus (P), Sulphur (S), Chlorine (Cl), Argon (Ar)
-- Elements in period 3 show a gradual change of physical and chemical properties across the period from left to right.
+- The elements in period 3: Sodium (Na), Magnesium (Mg), Aluminum (Al), Silicon (Si), Phosphorus (P), Sulphur (S), Chlorine (Cl), Argon (Ar).
 
 #### Physical and Chemical Properties across Period 3
 
 | Characteristic                   | Trend                                                        | Reason                                                       |
 | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1. Atomic radius                 | Decreases                                                    | - All atoms of the elements have 3 shells occupied with electrons. <br/>- **Proton number increases** one by one from Na to Cl <br/>- It causes the number of positive charge in the nucleus increases. <br/>- The strength of **attraction** between proton in nucleus and electrons in the shells **increases**. <br/>- The **size of atom decreases** across the period. |
+| 1. Atomic radius                 | Decreases                                                    | - All atoms of the elements have 3 shells occupied with electrons. <br/>- **Proton number increases** one by one from Na to Cl <br/>- It causes the number of positive charge in the nucleus increases. <br/>- The strength of **attraction** between proton in nucleus and electrons in the shells **increases**. <br/>-All electrons in the shells are pulled closer toward nucleus<br/>- The **size of atom decreases** across the period. |
 | 2. Electronegativity             | Increases                                                    | - Electronegativity: a measurement of **tendency of an element to attract protons**. <br/>- The increase in number of protons and decrease in atomic radius cause **increase** in **attractive force between nucleus and outermost shell electron**. <br/>- The **electronegativity increases** when moving across period. |
 | 3. Melting point / Boiling Point | a. Increases (from left to the middle of period)             | - ***Na, Mg and Al*** are metals with strong metallic bond between atoms. <br/>- The strength of **metallic bond increases** from Na to Al with **increase** in number of protons and **valence electrons**. <br/>- Hence, they have high melting and boiling point |
 |                                  | b. Very high melting and boiling point (at the middle of the period) | - ***Si*** has very high melting and boiling point. <br/>- It forms a **giant covalent network structure**, atoms are held by **strong covalent bond**. <br/>- A large amount of energy is required to break to strong covalent bond. |
@@ -163,7 +162,7 @@
 
 ### Transition Elements
 
-- located between group IIA and IIIA
+- located between group IIA and IIIA (group 2 and group 13)
 - shows metal properties: shiny conduct heat / electricity, malleable, high tensile strength, high melting and boiling point and high density
 
 #### Special Characteristic
