@@ -177,6 +177,8 @@
    | Ni                | +2, +3           |
 
    - Exception: Zinc, only form Zn^2+^
+   - *oxidation number ≠ oxidation state
+     - i.e. oxidation number of iron element is zero (uncombined state), whereas its oxidation state is +2 & +3
 
 2. Form **colored compounds**
 
