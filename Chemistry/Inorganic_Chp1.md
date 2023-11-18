@@ -21,7 +21,7 @@ $$
 1. ***Potassium and sodium*** **burn** readily and **violently** with air to form **white peroxides**.
    $$
    \ce{K_{(s)} + O2_{(g)} -> K2O2_{(s)}} \\
-    \ce{K_{(s)} + O2_{(g)[excess]} -> KO2_{(s)[postassium\,superoxide]}} \\
+    \ce{K_{(s)} + \underset{excess}{O2_{(g)}} -> \underset{postassium superoxide}{KO2_{(s)}}} \\
     \ce{Na_{(s)} + O2_{(g)} ->[\Delta] Na2O2_{(s)}}
    $$
 
@@ -43,16 +43,16 @@ $$
 
     - The oxides are **basic** in nature and **sparingly soluble** (low solubility) in water forming **hydroxides**.
       $$
-      \ce{CaO_{(s)[quick\,lime]} + H2O_{(l)} -> Ca(OH)2_{(s)[slaked\,lime]}} \\
+      \ce{\underset{quick lime}{CaO_{(s)}} + H2O_{(l)} -> \underset{slaked lime}{Ca(OH)2_{(s)}}} \\
       \ce{MgO_{(s)} + H2O_{(l)} -> Mg(OH)2_{(s)}} \\
       $$
 
 3. ***Aluminum, zinc and iron*** also burn if they're **strongly heated** (particularly in oxygen)
     $$
-    \ce{4Al_{(s)} + 3O2_{(g)} ->[\Delta] 2Al2O3_{(s)\,[white\,solids]}}\\
+    \ce{4Al_{(s)} + 3O2_{(g)} ->[\Delta] \underset{white solids}{2Al2O3_{(s)}}}\\
     \ce{2Zn_{(s)} + O2_{(g)} ->[\Delta] 2ZnO_{(s)\,[white\,when\,cold,\,yellow\,when\,hot]}}\\
     \ce{2Fe_{(s)} + O2_{(g)} ->[\Delta] 2FeO_{(s)}}\\
-    \ce{3Fe_{(s)} + 2O2_{(g)} ->[\Delta] Fe3O4_{(s)\,[black\,crystal]}}\\
+    \ce{3Fe_{(s)} + 2O2_{(g)} ->[\Delta] \underset{black crystals}{Fe3O4_{(s)}}}\\
     $$
 
     - The oxides of **aluminum and zinc** are amphoteric in nature and are insoluble in water.
@@ -170,9 +170,9 @@ $$
 
   e.g.
   $$
-  \ce{PbO_{(s)\,[yellow]} + H2_{(g)} ->[\Delta] Pb_{(s)\,[grey\, globules]} + H2O_{(g)}} \\
-  \ce{CuO_{(s)\,[black]} + H2_{(g)} ->[\Delta] Cu_{(s)\,[brownish]} + H2O_{(g)}} \\
-  \ce{Fe2O3_{(s)\,[reddish-brown]} + 3H2_{(g)} ->[\Delta] 2Fe_{(s)\,[silvery\,grey]} + 3H2O_{(g)}} \\
+  \ce{\underset{yellow}{PbO_{(s)}} + H2_{(g)} ->[\Delta] \underset{grey globules}{Pb_{(s)}} + H2O_{(g)}} \\
+  \ce{\underset{black}{CuO_{(s)}} + H2_{(g)} ->[\Delta] \underset{brownish}{Cu_{(s)}} + H2O_{(g)}} \\
+  \ce{\underset{reddish-brown}{Fe2O3_{(s)}} + 3H2_{(g)} ->[\Delta] \underset{silvery grey}{2Fe_{(s)}} + 3H2O_{(g)}} \\
   $$
   
 
@@ -211,8 +211,8 @@ $$
 
 - Carbon monoxide then **reduces iron** in the ore (***<u>haematite, magnetite</u>***) to iron metal. 
   $$
-  \ce{3CO_{(g)} + Fe2O3_{(s)\,[haematite]} -> 2Fe_{(l)} + 3CO2_{(g)}} \\
-  \ce{4CO_{(g)} + Fe3O4_{(s)\,[magnetite]} -> 3Fe_{(l)} + 4CO2_{(g)}}
+  \ce{3CO_{(g)} + \underset{haematite}{Fe2O3_{(s)}} -> 2Fe_{(l)} + 3CO2_{(g)}} \\
+  \ce{4CO_{(g)} + \underset{magnetite}{Fe3O4_{(s)}} -> 3Fe_{(l)} + 4CO2_{(g)}}
   $$
 
 - The temperature where the reduction takes place is above 600°C, **Iron falls to the bottom** of the furnace where the temperature is 1800°C. Iron is **liquid** at this temperature and is tapped off periodically. Iron formed in blast furnace is ***<u>pig iron</u>*** which contains C (3.8-4.7%), Mn, Si, S and P. 

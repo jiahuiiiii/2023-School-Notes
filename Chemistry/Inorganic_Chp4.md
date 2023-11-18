@@ -467,7 +467,7 @@ $$
 - The yellow coloration of the acid is due to the dissolution of the nitrogen dioxide impurity in the acid. Pure acid can be obtained by bubbling air through the acid solution to remove this gas.
   - the oxygen in air oxidize nitrogen dioxide into dinitrogen pentoxide, N~2~O~5~, which is the anhydride of nitric acid
 
-### Industrial Preparation
+### Industrial Preparation （*Ostwald Process)
 
 Nitric acid is manufactured by the **catalytic oxidation of ammonia**. The process is also known as the ***Ostwald process***.
 
@@ -475,10 +475,10 @@ Nitric acid is manufactured by the **catalytic oxidation of ammonia**. The proce
 
 1. **Catalytic oxidation of ammonia**
    $$
-   \ce{4NH3_{(g)} + 5O2_{(g)} ->[Pt-Rh, 700-900°C] 4NO_{(g)} + 6H2O_{(g)}}
+   \ce{4NH3_{(g)} + 5O2_{(g)} ->[Pt-Rh, 850°C] 4NO_{(g)} + 6H2O_{(g)}}
    $$
 
-   - The ammonia reacts with excess air, in the presence of a **platinum-rhodium catalyst at 700-900°C**, to produce nitrogen monoxide and steam.
+   - The ammonia reacts with excess air, in the presence of a **platinum-rhodium catalyst at 700-900°C and 2-4 atm**, to produce nitrogen monoxide and steam.
 
 2. **Oxidation of nitrogen monoxide**
    $$

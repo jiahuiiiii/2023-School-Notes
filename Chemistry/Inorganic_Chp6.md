@@ -30,7 +30,9 @@ The halogens are only slightly soluble in polar solvents such as water. But they
 
 ![i6_halogens_color_water_non-polar](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i6_halogens_color_water_non-polar.png)
 
-|                                    | chrorine        | bromine       | iodine      |
+* the halogens tend to dissolve in non-polar solvents, so if non-polar solvent exists, the color of the aqueous layer would be much lighter
+
+|                                    | chlorine        | bromine       | iodine      |
 | ---------------------------------- | --------------- | ------------- | ----------- |
 | X~2~                               | greenish yellow | reddish brown | dark purple |
 | X~2~ in water                      | light yellow    | brown         | brown       |
@@ -82,7 +84,7 @@ $$
    \ce{Cl2_{(g)} + H2_{(g)} ->[UV or heating] 2HCl_{(g)}}
    $$
    
-3. With chlorine: The reaction is slow, even in sunlight or at 500°C.
+3. With bromine: The reaction is slow, even in sunlight or at 500°C.
    $$
    \ce{Br2_{(g)} + H2_{(g)} <=>[\Delta] 2HBr_{(g)}}
    $$
@@ -94,7 +96,7 @@ $$
 
 #### Reaction with water
 
-Fluorine reacts vigorously with water to give o°Cxygen gas.
+Fluorine reacts vigorously with water to give oxygen gas.
 $$
 \ce{2F2_{(g)} + 2H2O_{(l)} -> 4HF_{(aq)} + O2_{(g)}}
 $$
@@ -232,7 +234,7 @@ $$
 #### Reaction with slaked lime (formation of bleaching powder)
 
 $$
-\ce{2Cl2_{(g)} + Ca(OH)2_{(s)} -> \underset{bleaching powder}{Ca(ClO)2_{(s)}} + CaCl2_{(s)} + 2H2O_{(;)}}
+\ce{2Cl2_{(g)} + 2Ca(OH)2_{(s)} -> \underset{bleaching powder}{Ca(ClO)2_{(s)}} + CaCl2_{(s)} + 2H2O_{(l)}}
 $$
 
 When using bleaching powder, **calcium chlorate(I)** reacts with carbon dioxide and water to form **chloric(I) acid**, which performs bleaching action.
@@ -327,11 +329,11 @@ The acid reacts with the chloride to produce **misty fumes of hydrogen chloride*
 
 At **lower temperature**, sodium hydrogensulfate(VI) is formed together with some hydrogen chloride.
 $$
-\ce{NaCl_{(s)} + H2SO4_{(aq)} -> HCl_{(g)} + NaHSO4_{(aq)}}
+\ce{NaCl_{(s)} + H2SO4_{(l)} -> HCl_{(g)} + NaHSO4_{(aq)}}
 $$
 At **higher temperature**, the reaction goes to **completion**, forming sodium sulfate and more hydrogen chloride.
 $$
-\ce{NaCl_{(s)} + NaHSO4_{(aq)} ->[500-600°C] HCl_{(g)} + Na2SO4_{(aq)}}
+\ce{NaCl_{(s)} + NaHSO4_{(l)} ->[500-600°C] HCl_{(g)} + Na2SO4_{(aq)}}
 $$
 For storage pupose, hydrogen chloride is dissolved in water to form **hydrochloric acid**. However, if the delivery tube is dipped back directly into the water in a beaker, the water is likely to be sucked back into the reacting flask. **To prevent "sucking back", an inverted filter funnel is attached to the end of the delivery tube by means of a short rubber tubing. The rim of the funnel is placed just beneath the surface of the water.** Concentrated hydrochloric acid, wchih contains about 36% by mass of hydrogen chloride, is obtained by passing the gas into water until no more gas can be absorbed.
 
@@ -446,7 +448,7 @@ $$
 
 Hydrogen bromide is not as stable as hydrogen chloride and is decomposed to some extent by the action of heat. This, together with the fact that hot concentrated sulphuric acid is an oxidising agent, makes it **impossible to prepare pure hydrogen bromide by the action of heat on a mixture of concentrated sulphuric acid**. The products of such an attempt would be hydrogen bromide, bromine, and sulphur dioxide.
 $$
-\ce{2KBr_{(aq)} + 2H2SO4_{(aq)} -> K2SO4_{(aq)} + Br2_{(g)} + SO2_{(g)} + 2H2O_{(l)}}
+\ce{2KBr_{(aq)} + 2H2SO4_{(l)} -> K2SO4_{(aq)} + Br2_{(g)} + SO2_{(g)} + 2H2O_{(l)}}
 $$
  It may be made by the action of bromine on a mixture of red phosphorus and water.
 
@@ -535,3 +537,5 @@ The cyrstalline structure of **AgI** is similar to ice, allowing it to induce fr
 
 
 `相当炸裂 by jiahuiiiii @ 6th Nov 2023 1750`
+
+`拖延queen，准备完蛋 by jiahuiiiii @ 18th Nov 2023 2150`
