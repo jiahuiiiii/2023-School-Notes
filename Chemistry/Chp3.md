@@ -222,7 +222,7 @@ $$
 
 #### Solubility
 
-![3_solubility_trick](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\3_solubility_trick.png)
+![3_solubility_trick](https://i.ibb.co/3NDZ2Nj/3-solubility-trick.png)
 
 1. Balance the following chemical equations.
 
@@ -290,7 +290,7 @@ $$
 
 ## VI Types of Chemical Reactions
 
-![3_type_of_equation](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\3_type_of_equation.jpg)
+![3_type_of_equation](https://i.ibb.co/jV8H2VL/3-type-of-equation.jpg)
 
 ## VII Reaction Stoichiometry
 

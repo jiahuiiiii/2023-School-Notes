@@ -9,9 +9,9 @@
 - Substances contained can't be deduced simply from its appearance.
 - Many transition metal ions can have different color depending on the particular compound it's in.
 
-![i7_Appearance of Substances](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i7_Appearance of Substances.png)
+![i7_Appearance of Substances](https://i.ibb.co/KDJfWWL/i7-Appearance-of-Substances.png)
 
-![i7_color_of_ions](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i7_color_of_ions.png)
+![i7_color_of_ions](https://i.ibb.co/qdJsppn/i7-color-of-ions.png)
 
 | Color of unknown solution | Possible substance present                                   |
 | ------------------------- | ------------------------------------------------------------ |
@@ -48,11 +48,11 @@
 
 ### IV Deductions from Test Instructions
 
-![i7_Deductions from Test Instructions](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i7_Deductions from Test Instructions.png)
+![i7_Deductions from Test Instructions](https://i.ibb.co/JCVrp0N/i7-Deductions-from-Test-Instructions.png)
 
 ### V Tests for Gases
 
-![i7_Tests for Gases](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i7_Tests for Gases.png)
+![i7_Tests for Gases](https://i.ibb.co/zrkDdcQ/i7-Tests-for-Gases.png)
 
 ### VI Tests for Acids and Alkalis
 

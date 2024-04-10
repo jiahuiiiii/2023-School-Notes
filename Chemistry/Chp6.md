@@ -1,6 +1,6 @@
 # Chapter 6 - The Periodic Table and Bonding
 
-![periodic-table](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\periodic-table.jpg)
+![periodic-table](https://i.ibb.co/dr2PBvV/periodic-table.jpg)
 
 #### Group
 

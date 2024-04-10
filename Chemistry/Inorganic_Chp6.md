@@ -6,11 +6,11 @@
 
 #### Electron Configuration
 
-![i6_halogens_electro](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i6_halogens_electro.png)
+![i6_halogens_electro](https://i.ibb.co/VxPyMKy/i6-halogens-electro.png)
 
 #### Appearance
 
-![i6_halogens_color](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i6_halogens_color.png)
+![i6_halogens_color](https://i.ibb.co/wCpyDGs/i6-halogens-color.png)
 
 #### Melting and Boiling Points
 
@@ -28,7 +28,7 @@
 
 The halogens are only slightly soluble in polar solvents such as water. But they're quite soluble in non-polar solvent. Tetrachloromethane, CCl~4~, is a common non-polar solvent used to dissolve the halogens.
 
-![i6_halogens_color_water_non-polar](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i6_halogens_color_water_non-polar.png)
+![i6_halogens_color_water_non-polar](https://i.ibb.co/jfkNyDv/i6-halogens-color-water-non-polar.png)
 
 * the halogens tend to dissolve in non-polar solvents, so if non-polar solvent exists, the color of the aqueous layer would be much lighter
 
@@ -194,7 +194,7 @@ $$
 
    - Chlorine ions are the most stable, it's more difficult to change them back to chlorine.
 
-     ![i6_halogens_and_halide_ions_reactivity](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i6_halogens_and_halide_ions_reactivity.png)
+     ![i6_halogens_and_halide_ions_reactivity](https://i.ibb.co/Tq9R7Qj/i6-halogens-and-halide-ions-reactivity.png)
 
 ## Chlorine
 
@@ -202,7 +202,7 @@ $$
 
 1. Oxidation of concentrated hydrochloric acid with manganese(VI) oxide
 
-   ![i6_chlorine_lab_prep_mno2](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i6_chlorine_lab_prep_mno2.png)
+   ![i6_chlorine_lab_prep_mno2](https://i.ibb.co/pz06fB0/i6-chlorine-lab-prep-mno2.png)
    $$
    \ce{MnO2_{(s)} + 4HCl_{(aq)} ->[\Delta] MnCl2_{(aq)} + 2H2O_{(l)} + Cl2_{(g)}}
    $$
@@ -298,7 +298,7 @@ Add a few drop of the unknown solution to **starch solution.** If iodine is pres
 
 ## Summary Comparison of the Halogen Elements
 
-![i6_ Summary Comparison of the Halogen Elements](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i6_ Summary Comparison of the Halogen Elements.png)
+![i6_ Summary Comparison of the Halogen Elements](https://i.ibb.co/64JZP6K/i6-Summary-Comparison-of-the-Halogen-Elements.png)
 
 ## Hydrogen Halides
 
@@ -321,7 +321,7 @@ Hydrogen chloride exists as a gas at r.t.p. When it dissolves in water, it forms
 
 #### Laboratory preparation
 
- ![i6_HCl_lab_prep](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i6_HCl_lab_prep.png)
+ ![i6_HCl_lab_prep](https://i.ibb.co/S6KhbPr/i6-HCl-lab-prep.png)
 
 Hydrogen chloride is prepared by the action of **hot concentrated sulfuric(VI) acid on any soluble chloride**, e.g. sodium chloride.
 
@@ -337,7 +337,7 @@ $$
 $$
 For storage pupose, hydrogen chloride is dissolved in water to form **hydrochloric acid**. However, if the delivery tube is dipped back directly into the water in a beaker, the water is likely to be sucked back into the reacting flask. **To prevent "sucking back", an inverted filter funnel is attached to the end of the delivery tube by means of a short rubber tubing. The rim of the funnel is placed just beneath the surface of the water.** Concentrated hydrochloric acid, wchih contains about 36% by mass of hydrogen chloride, is obtained by passing the gas into water until no more gas can be absorbed.
 
-![i6_collection_of_hcl](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i6_collection_of_hcl.png)
+![i6_collection_of_hcl](https://i.ibb.co/44Dmjkf/i6-collection-of-hcl.png)
 
 #### Industrial preparation
 
@@ -452,7 +452,7 @@ $$
 $$
  It may be made by the action of bromine on a mixture of red phosphorus and water.
 
-![i6_HBr_lab_prep](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i6_HBr_lab_prep.png)
+![i6_HBr_lab_prep](https://i.ibb.co/g9tVRbW/i6-HBr-lab-prep.png)
 $$
 \begin{align*}
 &\ce{\underset{moist red phosphorus}{P4_{(s)}} + 6Br2_{(l)} -> 4PBr3_{(g)}}\\
@@ -530,7 +530,7 @@ Most chlorides are soluble, except CuCl~2~, Hg~2~Cl~2~, AgCl, PbCl~2~ is insolub
 
 Most metal halides are soluble except **lead and silver halides**. Therefore solutions of lead and silver ions are used to test for the presence of halide ions in solution.
 
-![i6_Test for Soluble Halides](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i6_Test for Soluble Halides.png)
+![i6_Test for Soluble Halides](https://i.ibb.co/4F1dmYM/i6-Test-for-Soluble-Halides.png)
 
 The cyrstalline structure of **AgI** is similar to ice, allowing it to induce freezing in cloud seeding for the purpose of **rainmaking**.
 
