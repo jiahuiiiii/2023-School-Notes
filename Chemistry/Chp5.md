@@ -134,7 +134,7 @@ eqn
 - They're not spontaneous. (This process doesn't happen on its own.)
 - The electrical energy from a battery can force this process to happen.
 
-![image-20230911005040155](C:\Users\wongj\AppData\Roaming\Typora\typora-user-images\image-20230911005040155.png)
+![image-20230911005040155](https://i.ibb.co/VpBzRQN/5-battery.png)
 
 ![image-20230911010239119](C:\Users\wongj\AppData\Roaming\Typora\typora-user-images\image-20230911010239119.png)
 
@@ -142,20 +142,20 @@ eqn
 
 #### Electrochemical Series
 
-![5_electrochemical-series-redox](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\5_electrochemical-series-redox.jpeg)
+![5_electrochemical-series-redox](https://i.ibb.co/NNd2hjF/5-electrochemical-series-redox.jpg)
 
 e.g. electrolysis of water (uec level eqn)
 
-![5_H2O_eletrolysis](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\5_H2O_eletrolysis.png)
+![5_H2O_eletrolysis](https://i.ibb.co/16QXmQP/5-H2-O-eletrolysis.png)
 
-![5_H2O_eletrolysis_2](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\5_H2O_eletrolysis_2.png)
+![5_H2O_eletrolysis_2](https://i.ibb.co/VTjTpkt/5-H2-O-eletrolysis-2.png)
 
 ### Industrial Uses of Electrolysis
 
 #### Electroplating
 
-![5_electroplating2](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\5_electroplating2.png)
+![5_electroplating2](https://i.ibb.co/7rN8y0w/5-electroplating2.png)
 
-![5_electroplating3](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\5_electroplating3.png)
+![5_electroplating3](https://i.ibb.co/YdmwRqY/5-electroplating1.png)
 
-![5_electroplating1](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\5_electroplating1.png)
+![5_electroplating1](https://i.ibb.co/JFG2cfz/5-electroplating3.png)

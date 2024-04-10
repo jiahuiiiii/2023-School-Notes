@@ -58,7 +58,7 @@
 
 #### Chemical Reactions
 
-![6_Chemical Reactions of Group 1 Elements](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\6_Chemical Reactions of Group 1 Elements.png)
+![6_Chemical Reactions of Group 1 Elements](https://i.ibb.co/qxXv8vZ/6-Chemical-Reactions-of-Group-1-Elements.png)
 
 ### Group 17 (Group VIIA, halogens)
 
@@ -85,7 +85,7 @@
 
 ###### *Electronegativity
 
-![6_electronegativity](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\6_electronegativity.png)
+![6_electronegativity](https://i.ibb.co/4TKNDtH/6-electronegativity.png)
 
 - A measure of the **tendency of an atom to attract a bonding pair of electrons**.
 - When two atoms with different electronegativity bond covalently, the electron pair will be pulled more to the atom with higher electronegativity.

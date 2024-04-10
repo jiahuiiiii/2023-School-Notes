@@ -70,7 +70,7 @@ $$
 1. What is the mass percent of glucose in a solution made by dissolving 4.6 g of glucose in 145.2 g of water? [3.07%]
 2. Determine the mass % of a NaCl solution if 15.8 grams of NaCl were dissolved in 50 ml of water. (Assume the density of water to be 1 g/ml.) [24.01%]
 3. How would you prepare 400 g of a 2.50% solution of sodium chloride? [10g]
-4. ![3_q4](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\3_q4.jpg)
+4. ![3_q4](https://i.ibb.co/TLSXKbv/3-q4.jpg)
 
 #### Density of solution
 
@@ -149,7 +149,7 @@ $$
 
     (ii) increasing no of moles of NaCI
 
-![3_molar_conc_mass_conc](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\3_molar_conc_mass_conc.jpg)
+![3_molar_conc_mass_conc](https://i.ibb.co/ykgNsrK/3-molar-conc-mass-conc.jpg)
 
 ### Preparing Standard Solution
 
@@ -157,7 +157,7 @@ $$
 
 #### By Weighing
 
-![3_standard_solution_weighing](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\3_standard_solution_weighing.jpg)
+![3_standard_solution_weighing](https://i.ibb.co/qkyMSzG/3-standard-solution-weighing.jpg)
 
 #### Dilution
 
@@ -247,7 +247,7 @@ $$
 pH = -log_{10}[H^{+}]
 $$
 
-![4_pH_scale](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\4_pH_scale.jpg)
+![4_pH_scale](https://i.ibb.co/2gXSHs4/4-p-H-scale.jpg)
 
 ##### pOH Scale (not important)
 
