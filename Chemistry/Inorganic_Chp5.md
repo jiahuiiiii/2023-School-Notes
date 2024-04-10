@@ -20,7 +20,7 @@ Sulfur is a **yellow solid**, which is **insoluble in water** but **soluble in c
 
 Free sulfur exists in several allotropic forms.
 
-![i5_allotropes_of_sulfur](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i5_allotropes_of_sulfur.png)
+![i5_allotropes_of_sulfur](https://i.ibb.co/5xTdC7t/i5-allotropes-of-sulfur.png)
 
 1. rhombic sulfur
    - It's the only stable allotrope at temperature below 96°C. Rhombic sulfur is crystalline. The crystals are bright yellow color and octahedral shape. They're made up of S~8~ molecules.
@@ -134,11 +134,11 @@ $$
 
 #### Collection of hydrogen sulfide
 
-![i5_collection_of_H2S](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i5_collection_of_H2S.png)
+![i5_collection_of_H2S](https://i.ibb.co/yF0htGy/i5-collection-of-H2-S.png)
 
 #### Kipp's Apparatus
 
-![i5_kipps_apparatus](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i5_kipps_apparatus.png)
+![i5_kipps_apparatus](https://i.ibb.co/XWFdnWb/i5-kipps-apparatus.png)
 
 - It allows a gas to be supplied anytime it's required. e.g. H~2~S, CO~2~, H~2~ 
 - It consists of three chambers, A, B & C. The solid reactant is packed in B while A & C contain the liquid reactant.

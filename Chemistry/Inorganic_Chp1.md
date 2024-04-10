@@ -81,11 +81,11 @@ $$
 
 ### Reactions of Metals with Water
 
-![i1_Reactions of Metals with Cold Water and Steam](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i1_Reactions of Metals with Cold Water and Steam.png)
+![i1_Reactions of Metals with Cold Water and Steam](https://i.ibb.co/58g9C3V/i1-Reactions-of-Metals-with-Cold-Water-and-Steam.png)
 
 ### Reactions of Metals with Dilute Acids
 
-![i1_Reactions of Metals with Dilute Hydrochloric Acid](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i1_Reactions of Metals with Dilute Hydrochloric Acid.png)
+![i1_Reactions of Metals with Dilute Hydrochloric Acid](https://i.ibb.co/1n3GzF5/i1-Reactions-of-Metals-with-Dilute-Hydrochloric-Acid.png)
 
 ## Thermal Decomposition of Metallic Compounds
 
@@ -101,18 +101,18 @@ $$
 
 - Most metal hydroxides decompose into their **metallic oxides** and **water**.
 
-![i1_Thermal Decomposition of Metal Hydroxides](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i1_Thermal Decomposition of Metal Hydroxides.png)
+![i1_Thermal Decomposition of Metal Hydroxides](https://i.ibb.co/k1Mp4fz/i1-Thermal-Decomposition-of-Metal-Hydroxides.png)
 
 ### Metal Nitrates
 
 - All metal nitrates decompose on heating. (They are best stored in an amber glass bottle or compatible opaque plastic container.)
 - When metal nitrates(V) in solid form are strongly heated, they **decompose differently** according to their **thermal stability**.
 
-![i1_Thermal Decomposition of Metal Nitrates](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i1_Thermal Decomposition of Metal Nitrates.png)
+![i1_Thermal Decomposition of Metal Nitrates](https://i.ibb.co/JFLYZ5Z/i1-Thermal-Decomposition-of-Metal-Nitrates.png)
 
 ### Metal Carbonates
 
-![i1_Thermal Decomposition of Metal Carbonates](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i1_Thermal Decomposition of Metal Carbonates.png)
+![i1_Thermal Decomposition of Metal Carbonates](https://i.ibb.co/2jk4mQ9/i1-Thermal-Decomposition-of-Metal-Carbonates.png)
 
 ## Reduction of Metal Oxides
 
@@ -162,7 +162,7 @@ $$
 
 - Oxides of metals higher than carbon cannot be reduced by carbon.
 
-![i1_The reactions of some metal oxides with carbon](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i1_The reactions of some metal oxides with carbon.png)
+![i1_The reactions of some metal oxides with carbon](https://i.ibb.co/QYXGs6d/i1-The-reactions-of-some-metal-oxides-with-carbon.png)
 
 #### With Hydrogen
 
@@ -190,9 +190,7 @@ $$
 - Iron is extracted from its ore in the blast furnace. 
 - The main iron ore is called haematite. **Haematite** contains mainly **iron (III) oxide - Fe~2~O~3~**. The iron ore contains impurities, mainly **silica (silicon dioxide)**. **Limestone (calcium carbonate)** is added to the iron ore which reacts with the silica to form molten calcium silicate in the blast furnace. The **calcium silicate** (called **slag**) floats on the liquid iron. Since iron is below carbon in the reactivity series, iron in the ore is reduced to iron metal by heating with **carbon (coke).** It is actually carbon monoxide which does the reducing in the blast furnace.
 
-![i1_blast_furnace](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i1_blast_furnace.png)
-
-
+![i1_blast_furnace](https://i.ibb.co/dBJqrnC/i1-blast-furnace.png)
 
 - The key features of the blast furnace extraction of iron from iron ore (hematite) are:
   - the burning of carbon (coke) to provide heat and produce carbon dioxide

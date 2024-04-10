@@ -13,7 +13,7 @@
 
 1. Preparation of nitrogen by the action of heat on ammonium chloride and sodium nitrite
 
-   ![i4_nitrogen_laboratory_prep_1](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_nitrogen_laboratory_prep_1.png)
+   ![i4_nitrogen_laboratory_prep_1](https://i.ibb.co/MMgJjRt/i4-nitrogen-laboratory-prep-1.png)
    $$
    \ce{NaNO2_{(aq)} + NH4Cl_{(aq)} ->[\Delta] NaCl_{(aq)} + N2_{(g)} + 2H2O_{(l)}} \\
    (\ce{NaNO2_{(aq)} + NH4Cl_{(aq)} ->[\Delta] NaCl_{(aq)} + NH4NO2_{(aq)\,[unstable]}})
@@ -21,21 +21,21 @@
 
 2. Preparation of nitrogen by action of ammonia gas on copper(II) oxide
 
-   ![i4_nitrogen_laboratory_prep_2](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_nitrogen_laboratory_prep_2.png)
+   ![i4_nitrogen_laboratory_prep_2](https://i.ibb.co/4jMrw1X/i4-nitrogen-laboratory-prep-2.png)
    $$
    \ce{3CuO_{(s)} + 2NH3_{(g)} ->[\Delta] 3Cu_{(s)} + N2_{(g)} + 3H2O_{(l)}}
    $$
 
 3. Preparation of nitrogen by action of air on copper (*extra one jit mentioned in class)
 
-   ![i4_nitrogen_laboratory_prep_3](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_nitrogen_laboratory_prep_3.png)
+   ![i4_nitrogen_laboratory_prep_3](https://i.ibb.co/vHTSjNR/i4-nitrogen-laboratory-prep-3.png)
    $$
    \ce{2NO_{(g)} + 2Cu_{(s)} ->[\Delta] 2CuO_{(s)} + N2_{(g)}}
    $$
 
 ### Industrial Preparation
 
-![i4_nitrogen_industrial_prep_](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_nitrogen_industrial_prep_.png)
+![i4_nitrogen_industrial_prep_](https://i.ibb.co/85CxCVV/i4-nitrogen-industrial-prep.png)
 
 - **Air** is **liquefied** under pressure. When liquefied air is distilled, **liquid nitrogen boils first at -196°C** and oxygen boils off at -183°C. This process is known as **fractional distillation**.
 
@@ -103,7 +103,7 @@
 
 ### Industrial Preparation (*Haber Process)
 
-![i4_Haber-Process](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_Haber-Process.png)
+![i4_Haber-Process](https://i.ibb.co/4WCWW5t/i4-Haber-Process.png)
 $$
 \ce{N2_{(g)} + 3H2_{(g)} <=>[250-500atm, 500℃, Fe] 2NH3_{(g)} }
 $$
@@ -115,7 +115,7 @@ $$
 - **Heat ammonium salt with a non-volatile base**
 - In the laboratory, ammonium chloride and **calcium hydroxide (slaked lime)** are used. Calcium hydroxide is chosen because it's cheap and not deliquescent like the caustic alkalis.
 
-![i4_ammonia_laboratory](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_ammonia_laboratory.png)
+![i4_ammonia_laboratory](https://i.ibb.co/RCy5jdZ/i4-ammonia-laboratory.png)
 $$
 \ce{Ca(OH)2_{(s)} + 2NH4Cl_{(s)} ->[warm] CaCl2_{(s)} + 2H2O_{(l)} + 2NH3_{(g)}}
 $$
@@ -142,7 +142,9 @@ $$
 - Can be easily liquefied into a colorless liquid at ordinary temperatures by compression
 - The most soluble gas known. (one volume of water dissolves about 700 volumes of ammonia at r.t.p.) 
 
-#### The Fountain Experiment![i4_fountain_experiment](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_fountain_experiment.jpg)
+#### The Fountain Experiment
+
+![i4_fountain_experiment](https://i.ibb.co/H7TYxT8/i4-fountain-experiment.jpg)
 
 1. Half-fill the syringe with water, dry the nozzle and carefully fit it into the second hole of the two-holed stopper (see diagram).
 
@@ -313,7 +315,7 @@ $$
 
 Nitrogen monoxide can be prepared by the **action of nitric acid on most metals**. Usually, a **50% nitric(V) acid** solution and **copper turnings** are used.
 
-![i4_nitrogen_monoxide_laboratory_prep](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_nitrogen_monoxide_laboratory_prep.jpg)
+![i4_nitrogen_monoxide_laboratory_prep](https://i.ibb.co/TvYSydW/i4-nitrogen-monoxide-laboratory-prep.jpg)
 
 Some nitrogen dioxide is produced during the process, mostly by the reaction of nitrogen monoxide formed with the oxygen in the flask. However, nitrogen dioxide is moderately soluble in water and so is removed by bubbling the gases through water.
 $$
@@ -403,7 +405,7 @@ $$
 $$
 
 
-![i4_dinitrogen_oxide_laboratory_prep](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_dinitrogen_oxide_laboratory_prep.png)
+![i4_dinitrogen_oxide_laboratory_prep](https://i.ibb.co/NpnMytn/i4-dinitrogen-oxide-laboratory-prep.png)
 
 However, the direct heating of ammonium nitrate(V) is dangerous because the reaction may be explosive. Therefore, the gas is prepared by **heating any mixture of salts which by double decomposition will yield ammonium nitrate(V)**.
 $$
@@ -451,7 +453,7 @@ $$
 
 ### Comparisons of the oxides of nitrogen
 
-![i4_Comparisons of The Oxides of Nitrogen](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_Comparisons of The Oxides of Nitrogen.png)
+![i4_Comparisons of The Oxides of Nitrogen](https://i.ibb.co/bBFbxKb/i4-Comparisons-of-The-Oxides-of-Nitrogen.png)
 
 ## Nitric(V) Acid
 
@@ -461,7 +463,7 @@ Nitric acid can be displaced from any **nitrate(V)** by the action of **concentr
 $$
 \ce{2NaNO3_{(aq)} + conc\text{.} H2SO4_{(aq)} ->[>200°C] Na2SO4_{(aq)} + 2HNO3_{(l)}} \\\ce{NaNO3_{(aq)} + \underset{excess}{conc\text{.} H2SO4_{(aq)}} ->[<200°C] \underset{acid salt}{NaHSO4}_{(aq)} + HNO3_{(l)}}
 $$
-![i4_nitric_acid_laboratory](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_nitric_acid_laboratory.png)
+![i4_nitric_acid_laboratory](https://i.ibb.co/x6hpj7C/i4-nitric-acid-laboratory.png)
 
 - An all-glass apparatus must be used in this preparation because the nitric(V) acid vapor formed will rapidly attack cork or rubber.
 - The yellow coloration of the acid is due to the dissolution of the nitrogen dioxide impurity in the acid. Pure acid can be obtained by bubbling air through the acid solution to remove this gas.
@@ -471,7 +473,7 @@ $$
 
 Nitric acid is manufactured by the **catalytic oxidation of ammonia**. The process is also known as the ***Ostwald process***.
 
-![i4_ostwald_process](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_ostwald_process.png)
+![i4_ostwald_process](https://i.ibb.co/dBRwXfW/i4-ostwald-process.png)
 
 1. **Catalytic oxidation of ammonia**
    $$
@@ -630,7 +632,7 @@ $$
 
 2. Nitrates decompose differently by heat according their thermal stability
 
-   ![i1_Thermal Decomposition of Metal Nitrates](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i1_Thermal Decomposition of Metal Nitrates.png)
+   ![i1_Thermal Decomposition of Metal Nitrates](https://i.ibb.co/JFLYZ5Z/i1-Thermal-Decomposition-of-Metal-Nitrates.png)
    $$
    \ce{NH4NO3_{(s)} ->[\Delta] N2O_{(g)} + H2O_{(l)}}
    $$
@@ -642,7 +644,7 @@ $$
 
 4. Identification of NO~3~^-^ (***Brown ring test*** for NO~3~^-^ and HNO~3~)
 
-   ![i4_brown_ring_test](C:\Users\wongj\Documents\2023\Notes\Chemistry\assets\i4_brown_ring_test.jpg)
+   ![i4_brown_ring_test](https://i.ibb.co/71kQFq9/i4-brown-ring-test.jpg)
 
    - When **conc. H~2~SO~4~** is added slowly *down the side* of a test tube containing a solution of **nitrate** and *freshly prepared* **iron(II) sulfate, FeSO~4~**, the acid *sinks* to the bottom and two liquid layers are formed. At the junction of two layers, a **brown compound** is formed
 
